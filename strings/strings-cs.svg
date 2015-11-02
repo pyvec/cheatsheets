@@ -742,7 +742,7 @@
          id="tspan4356"
          y="414.56866"
          x="297.63782"
-         sodipodi:role="line">'tu' * 2 == 'tututututu'</tspan><tspan
+         sodipodi:role="line">'tu' * 5 == 'tututututu'</tspan><tspan
          id="tspan4358"
          y="428.74368"
          x="297.63782"
@@ -802,7 +802,7 @@
          sodipodi:role="line"
          x="297.63782"
          y="570.47955"
-         id="tspan4509">'mama'.index(&quot;m&quot;, 2) == 2</tspan><tspan
+         id="tspan4509">'mama'.index(&quot;m&quot;, 1) == 2</tspan><tspan
          sodipodi:role="line"
          x="297.63782"
          y="584.65454"
