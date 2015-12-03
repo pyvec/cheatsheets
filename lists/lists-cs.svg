@@ -269,8 +269,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97912666"
-     inkscape:cx="227.41126"
-     inkscape:cy="381.54814"
+     inkscape:cx="452.26955"
+     inkscape:cy="386.15617"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -354,7 +354,9 @@
          y="386.22046"
          x="14.173229"
          id="tspan7250"
-         sodipodi:role="line">Tvoření seznamů</tspan></text>
+         sodipodi:role="line">Tvoření seznamů <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen;fill:#666666"
+   id="tspan6239">(tyto zápisy/funkce vrací nový seznam)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -700,42 +702,36 @@
          sodipodi:role="line"
          x="124.01575"
          y="527.95807"
-         id="tspan4956">Podseznam od <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
-   id="tspan4960">a</tspan> do <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
-   id="tspan4962">b</tspan> (<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
-   id="tspan4964">a</tspan> včetně)</tspan><tspan
+         id="tspan4956">Nový podseznam</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="542.5863"
+         y="542.13306"
          id="tspan4968">Nastavení prvku (jde i s [a:b])</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="556.76129"
+         y="556.30804"
          id="tspan5242">Odstranění prvku (jde i s [a:b])</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="570.93628"
+         y="570.48303"
          id="tspan5250">Délka seznamu</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="585.11127"
+         y="584.65802"
          id="tspan5252">Je prvek v seznamu?</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="599.28632"
+         y="598.83307"
          id="tspan5254">Pokud seznam není prázdný...</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="124.01575"
-         y="613.4613"
+         y="613.00806"
          id="tspan4958" /></text>
     <rect
        ry="2.0256803e-06"
@@ -801,6 +797,15 @@
          x="297.63782"
          y="628.08954"
          id="tspan5264" /></text>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5441"
+       width="265.74802"
+       height="134.14568"
+       x="258.66144"
+       y="627.33411"
+       rx="2.8412917e-06"
+       ry="9.5862597e-06" />
     <text
        sodipodi:linespacing="125%"
        id="text4986"
@@ -810,8 +815,8 @@
        xml:space="preserve"><tspan
          y="627.31158"
          x="14.173229"
-         id="tspan4988"
-         sodipodi:role="line">Metody na měnění seznamů</tspan></text>
+         sodipodi:role="line"
+         id="tspan6245">Měnění seznamů</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -909,15 +914,6 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan5311">Vyprázdnění seznamu</tspan></text>
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5441"
-       width="265.74802"
-       height="134.14568"
-       x="258.66144"
-       y="627.33411"
-       rx="2.8412917e-06"
-       ry="9.5862597e-06" />
     <text
        sodipodi:linespacing="126%"
        id="text5027"
@@ -1070,7 +1066,9 @@
          y="825.75928"
          x="14.173229"
          id="tspan5445"
-         sodipodi:role="line">Seznamy a řetězce</tspan></text>
+         sodipodi:role="line">Seznamy a řetězce <tspan
+   style="-inkscape-font-specification:Oxygen;font-family:Oxygen;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#666666"
+   id="tspan6241">(vrací nový seznam/řetězec)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
