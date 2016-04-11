@@ -924,7 +924,7 @@
          id="tspan5043"
          y="641.4848"
          x="262.20474"
-         sodipodi:role="line">s = [7, 3]</tspan><tspan
+         sodipodi:role="line">s = [7, 3, 8]</tspan><tspan
          y="655.65979"
          x="262.20474"
          sodipodi:role="line"
@@ -994,14 +994,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="297.63782"
+       x="349.21439"
        y="797.41284"
        id="text5188"
        sodipodi:linespacing="126%"><tspan
          id="tspan5198"
          sodipodi:role="line"
-         x="297.63782"
-         y="797.41284">[4, 2, 3].index(2)</tspan></text>
+         x="349.21439"
+         y="797.41284">[4, 2, 3].index(2)  → 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1031,19 +1031,19 @@
          sodipodi:role="line"
          x="379.13388"
          y="670.29266"
-         id="tspan5431">→ [7, 3, 1, 8, 2, 9]</tspan><tspan
+         id="tspan5431">→ [7, 3, 8, 1, 2, 99]</tspan><tspan
          id="tspan5419"
          sodipodi:role="line"
          x="379.13388"
-         y="684.69653">→ [7, 3, 1, 8, 2]</tspan><tspan
+         y="684.69653">→ [7, 3, 8, 1, 2]</tspan><tspan
          id="tspan5421"
          sodipodi:role="line"
          x="379.13388"
-         y="699.10046">→       [3, 1, 8, 2]</tspan><tspan
+         y="699.10046">→       [3, 8, 1, 2]</tspan><tspan
          id="tspan5423"
          sodipodi:role="line"
          x="379.13388"
-         y="713.50439">→       [3, 1,    2]</tspan><tspan
+         y="713.50439">→       [3,    1, 2]</tspan><tspan
          id="tspan5425"
          sodipodi:role="line"
          x="379.13388"
@@ -1211,7 +1211,7 @@
          id="tspan5530">random.shuffle(s) → [2, 3, 1]</tspan><tspan
          sodipodi:role="line"
          x="262.20474"
-         y="953.55078"
-         id="tspan5532">random.choice('Kám', 'Nůz', 'Pap')</tspan></text>
+         y="953.77972"
+         id="tspan5532">random.choice(['Kám', 'Nůž', 'Pap'])</tspan></text>
   </g>
 </svg>
