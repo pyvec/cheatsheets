@@ -268,25 +268,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.97912666"
-     inkscape:cx="452.26955"
-     inkscape:cy="386.15617"
+     inkscape:zoom="2.7693884"
+     inkscape:cx="316.65024"
+     inkscape:cy="169.13768"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-height="1050"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-midpoints="false"
      inkscape:bbox-paths="true"
      inkscape:snap-center="false"
      inkscape:snap-global="true"
      inkscape:object-nodes="true"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      showguides="false"
      inkscape:snap-page="true"
      inkscape:snap-to-guides="false"
@@ -354,9 +354,7 @@
          y="386.22046"
          x="14.173229"
          id="tspan7250"
-         sodipodi:role="line">Tvoření seznamů <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen;fill:#666666"
-   id="tspan6239">(tyto zápisy/funkce vrací nový seznam)</tspan></tspan></text>
+         sodipodi:role="line">Tvoření seznamů</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -871,7 +869,7 @@
          y="641.4848"
          x="124.01575"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          y="655.65979"
          x="124.01575"
          sodipodi:role="line"
@@ -1066,9 +1064,7 @@
          y="825.75928"
          x="14.173229"
          id="tspan5445"
-         sodipodi:role="line">Seznamy a řetězce <tspan
-   style="-inkscape-font-specification:Oxygen;font-family:Oxygen;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#666666"
-   id="tspan6241">(vrací nový seznam/řetězec)</tspan></tspan></text>
+         sodipodi:role="line">Seznamy a řetězce</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1211,7 +1207,150 @@
          id="tspan5530">random.shuffle(s) → [2, 3, 1]</tspan><tspan
          sodipodi:role="line"
          x="262.20474"
-         y="953.77972"
-         id="tspan5532">random.choice(['Kám', 'Nůž', 'Pap'])</tspan></text>
+         y="953.55078"
+         id="tspan5532">random.choice(['Kám', 'Nůz', 'Pap'])</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17.716536"
+       y="1009.8425"
+       id="text4459"
+       sodipodi:linespacing="126%"
+       transform="translate(3.8541552e-7,-7.6462911e-6)"><tspan
+         id="tspan4463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen;fill:#666666"
+         sodipodi:role="line"
+         x="17.716536"
+         y="1009.8425">Takto označená funkce/výraz vytvoří nový seznam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="6.1622753"
+       y="408.81543"
+       id="text4467"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4469"
+         x="6.1622753"
+         y="408.81543">*</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4471"
+       y="422.98868"
+       x="6.1622753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="422.98868"
+         x="6.1622753"
+         id="tspan4473"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.1622753"
+       y="451.33511"
+       id="text4475"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4477"
+         x="6.1622753"
+         y="451.33511">*</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479"
+       y="493.8548"
+       x="5.8336363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="493.8548"
+         x="5.8336363"
+         id="tspan4481"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.1622753"
+       y="508.02805"
+       id="text4483"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="6.1622753"
+         y="508.02805">*</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4487"
+       y="536.37451"
+       x="6.1622753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="536.37451"
+         x="6.1622753"
+         id="tspan4489"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.1622753"
+       y="862.35876"
+       id="text4491"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4493"
+         x="6.1622753"
+         y="862.35876">*</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4495"
+       y="848.18555"
+       x="6.1622753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="848.18555"
+         x="6.1622753"
+         id="tspan4497"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4499"
+       y="1018.2643"
+       x="6.1622753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1018.2643"
+         x="6.1622753"
+         id="tspan4501"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="430.23035"
+       y="948.06006"
+       id="text4460"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4462"
+         x="430.23035"
+         y="948.06006"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="432.14532"
+       y="973.7207"
+       id="text4464"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4466"
+         x="432.14532"
+         y="973.7207"></tspan></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4468">
+      <path
+         d="m 432.98846,945.61511 0.92835,1.16455 0.93933,-1.16455 0.84595,0 -1.35132,1.72486 -0.81299,0 -1.34582,-1.72486 z"
+         id="path4482"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
   </g>
 </svg>
