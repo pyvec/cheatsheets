@@ -269,8 +269,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3846942"
-     inkscape:cx="292.19046"
-     inkscape:cy="294.79026"
+     inkscape:cx="188.79761"
+     inkscape:cy="476.20629"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1240,7 +1240,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">GND</tspan><tspan
          id="tspan5346"
-         y="510.24863"
+         y="510.24866"
          x="362.08472"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">Pin(14)</tspan><tspan
@@ -1260,15 +1260,15 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">Pin(15)</tspan><tspan
          id="tspan5354"
-         y="566.94861"
+         y="566.94867"
          x="362.08472"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">Pin(3)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">GPIO 3</tspan><tspan
          id="tspan5356"
-         y="581.1236"
+         y="581.12366"
          x="362.08472"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">Pin(1)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle">GPIO 1</tspan><tspan
          id="tspan5358"
          y="595.29865"
          x="362.08472"
@@ -1480,12 +1480,12 @@
          sodipodi:role="line"
          x="181.37607"
          y="453.54865"
-         id="tspan5372">Pin(10)</tspan><tspan
+         id="tspan5372">GPIO 10</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="181.37607"
          y="467.72366"
-         id="tspan5374">Pin(9)</tspan><tspan
+         id="tspan5374">GPIO 9</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="181.37607"
@@ -1499,7 +1499,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="181.37607"
-         y="510.24863"
+         y="510.24866"
          id="tspan5380">MISO</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
@@ -1519,12 +1519,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="181.37607"
-         y="566.94861"
+         y="566.94867"
          id="tspan5388">EN</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="181.37607"
-         y="581.1236"
+         y="581.12366"
          id="tspan5390">RESET</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
@@ -2060,7 +2060,7 @@
            height="248.03151"
            x="-10.629922"
            y="457.08661" /></flowRegion><flowPara
-         id="flowPara6075"></flowPara></flowRoot>    <rect
+         id="flowPara6075" /></flowRoot>    <rect
        ry="3.5432923"
        rx="3.543288"
        y="559.84247"
@@ -2301,7 +2301,7 @@
          sodipodi:role="line"
          id="tspan6204"
          x="216.14174"
-         y="655.51178"></tspan></text>
+         y="655.51178" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2448,7 +2448,7 @@
     <rect
        style="opacity:1;fill:#e7e7e7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6443"
-       width="265.74805"
+       width="279.92126"
        height="49.606335"
        x="244.48819"
        y="953.1496"
@@ -2491,5 +2491,48 @@
          x="435.82675"
          y="-269.28958"
          id="tspan6600" /></text>
+    <rect
+       ry="0"
+       rx="0"
+       y="616.5354"
+       x="375.59058"
+       height="77.952789"
+       width="148.81892"
+       id="rect4795"
+       style="opacity:1;fill:#e7e7e7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.67719"
+       y="630.70868"
+       id="text4560"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4562"
+         x="382.67719"
+         y="630.70868">Konzole MicroPythonu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125.99999905%;font-family:Oxygen;-inkscape-font-specification:Oxygen;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.67719"
+       y="644.8819"
+       id="text4564"
+       sodipodi:linespacing="126%"><tspan
+         sodipodi:role="line"
+         x="382.67719"
+         y="644.8819"
+         id="tspan4778">(TXD0/RXD0, 115200 Bd)</tspan><tspan
+         sodipodi:role="line"
+         x="382.67719"
+         y="659.05688"
+         id="tspan4774">Ctrl+E - vkládací mód</tspan><tspan
+         sodipodi:role="line"
+         x="382.67719"
+         y="673.23187"
+         id="tspan4787">Ctrl+C - zrušit</tspan><tspan
+         sodipodi:role="line"
+         x="382.67719"
+         y="687.40692"
+         id="tspan4791">Ctrl+D - konec</tspan></text>
   </g>
 </svg>
