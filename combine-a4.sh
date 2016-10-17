@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash -ex
 
 # Combine two A5 PDFs into one A4
 
