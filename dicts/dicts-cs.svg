@@ -268,9 +268,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.8330133"
-     inkscape:cx="270.60501"
-     inkscape:cy="238.35336"
+     inkscape:zoom="1.9582533"
+     inkscape:cx="281.47229"
+     inkscape:cy="542.44157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -292,7 +292,8 @@
      inkscape:snap-to-guides="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid3371"
@@ -862,7 +863,7 @@
          sodipodi:role="line"
          x="114.31017"
          y="698.08087"
-         id="tspan4983">Iterujepřes klíče</tspan><tspan
+         id="tspan4983">Iteruje přes klíče</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="114.31017"
@@ -1338,5 +1339,16 @@
        d="m 259.20339,765.35432 c -21.25984,0 -14.71519,28.34646 -39.51834,28.34646 l 0,0 c 24.80315,0 18.2585,31.88977 39.51834,31.88977 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4658"
+       y="912.73114"
+       x="7.0866146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54086876px;line-height:125%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="912.73114"
+         x="7.0866146"
+         id="tspan4660"
+         sodipodi:role="line">*</tspan></text>
   </g>
 </svg>
