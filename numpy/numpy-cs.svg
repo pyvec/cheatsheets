@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="352.7059"
-     inkscape:cy="170.51007"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="720.65339"
+     inkscape:cy="618.96509"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16530"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
@@ -707,7 +707,7 @@
    id="tspan16559"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen">stringem </tspan>'int8'<tspan
    id="tspan16561"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen">, </tspan>'unit64'<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen">, </tspan>'uint64'<tspan
    id="tspan16563"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"> apod.</tspan></tspan><tspan
              id="tspan16547"
