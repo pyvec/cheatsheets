@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="805.52753"
-     inkscape:cy="428.6563"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="352.7059"
+     inkscape:cy="170.51007"
      inkscape:document-units="px"
-     inkscape:current-layer="g17604"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
@@ -115,11 +115,11 @@
      transform="translate(0,-308.26772)">
     <text
        id="text4414"
-       y="976.0697"
+       y="964.8197"
        x="594.46564"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="976.0697"
+         y="964.8197"
          x="594.46564"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
@@ -673,7 +673,7 @@
     </g>
     <g
        id="g16638"
-       transform="translate(516.97262,-276.56501)">
+       transform="translate(516.97262,-295.31501)">
       <g
          transform="translate(0,-15.478744)"
          id="g16530">
@@ -842,7 +842,7 @@
     </g>
     <g
        id="g4203"
-       transform="translate(0,-7.5)">
+       transform="translate(0,-26.25)">
       <g
          transform="translate(516.90262,-152.15176)"
          id="g16872">
@@ -1003,36 +1003,36 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="562.17676"
-         y="551.79163"
+         y="533.04163"
          id="text17008"><tspan
            style="font-size:11.25px;line-height:1.25"
            sodipodi:role="line"
            id="tspan17006"
            x="562.17676"
-           y="551.79163">Na jedné dimenzi (jako seznam)</tspan></text>
+           y="533.04163">Na jedné dimenzi (jako seznam)</tspan></text>
       <text
          id="text17018"
-         y="565.67523"
+         y="546.92523"
          x="564.68585"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:11.25px;line-height:1.25999999"
-           y="565.67523"
+           y="546.92523"
            x="564.68585"
            sodipodi:role="line"
            id="tspan17016">matrix[0]</tspan><tspan
            style="font-size:11.25px;line-height:1.25999999"
-           y="579.85022"
+           y="561.10022"
            x="564.68585"
            sodipodi:role="line"
            id="tspan17097">matrix[0:-1:2]</tspan><tspan
            style="font-size:11.25px;line-height:1.25999999"
-           y="594.02521"
+           y="575.27521"
            x="564.68585"
            sodipodi:role="line"
            id="tspan17099">matrix[0][1]</tspan><tspan
            style="font-size:11.25px;line-height:1.25999999"
-           y="601.32367"
+           y="582.57367"
            x="564.68585"
            sodipodi:role="line"
            id="tspan17101" /></text>
@@ -1040,30 +1040,30 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="753.44794"
-         y="566.12402"
+         y="547.37402"
          id="text17028"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
            sodipodi:role="line"
            x="753.44794"
-           y="566.12402"
+           y="547.37402"
            id="tspan17026">první „řádek“</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
            sodipodi:role="line"
            x="753.44794"
-           y="580.29901"
+           y="561.54901"
            id="tspan17112">řezání jako v seznamech</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
            sodipodi:role="line"
            x="753.44794"
-           y="594.474"
+           y="575.724"
            id="tspan17114">jako se seznamem seznamů (pomalé)</tspan></text>
       <text
          id="text17034"
-         y="534.328"
+         y="515.578"
          x="558.59222"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44035339px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12002945px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="534.328"
+           y="515.578"
            x="558.59222"
            id="tspan17032"
            sodipodi:role="line"
@@ -1071,7 +1071,7 @@
     </g>
     <g
        id="g17621"
-       transform="translate(11.25,48.75)">
+       transform="translate(11.25,30)">
       <text
          id="text17038"
          y="631.96387"
@@ -1144,7 +1144,7 @@
     </g>
     <g
        id="g17631"
-       transform="translate(11.25,105)">
+       transform="translate(11.25,86.25)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1191,7 +1191,7 @@
     </g>
     <g
        id="g17643"
-       transform="translate(11.25,97.5)">
+       transform="translate(11.25,78.75)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3140,7 +3140,7 @@
     </g>
     <g
        id="g4777"
-       transform="translate(-4.6306311,91.875)">
+       transform="translate(-4.6306311,73.125)">
       <g
          style="fill:#ffffff;fill-opacity:1"
          id="g30017"
