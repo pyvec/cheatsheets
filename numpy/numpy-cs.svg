@@ -2141,17 +2141,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="565.36308"
-     inkscape:cy="449.66117"
+     inkscape:zoom="2"
+     inkscape:cx="793.51075"
+     inkscape:cy="220.77372"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g17414"
      showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1050"
-     inkscape:window-x="1920"
+     inkscape:window-width="1848"
+     inkscape:window-height="1056"
+     inkscape:window-x="72"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-midpoints="false"
@@ -2651,17 +2651,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.19000006;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="588.18909"
-       y="811.4173"
+       y="787.0423"
        id="text16490"><tspan
          id="tspan16488"
          sodipodi:role="line"
          x="588.18909"
-         y="811.4173"
+         y="787.0423"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">numpy.zeros((3, 3), dtype=int)</tspan><tspan
          id="tspan16543"
          sodipodi:role="line"
          x="588.18909"
-         y="825.69733"
+         y="801.32233"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">int<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
    id="tspan19396">, </tspan>float<tspan
@@ -2674,7 +2674,7 @@
          id="tspan16545"
          sodipodi:role="line"
          x="588.18909"
-         y="839.97729"
+         y="815.60229"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">'int8'<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
    id="tspan19382">, </tspan>'uint64'<tspan
@@ -2685,108 +2685,108 @@
          id="tspan16547"
          sodipodi:role="line"
          x="588.18909"
-         y="854.25732"
+         y="829.88232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">('U', 8)</tspan><tspan
          id="tspan16549"
          sodipodi:role="line"
          x="588.18909"
-         y="868.53729"
+         y="844.16229"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">('a', 3)</tspan><tspan
          id="tspan16551"
          sodipodi:role="line"
          x="588.18909"
-         y="882.81732"
+         y="858.44232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.19000006;font-family:'Oxygen mono';-inkscape-font-specification:'Oxygen mono'">a.astype(float)</tspan></text>
     <text
        id="text16500"
-       y="811.4173"
+       y="787.0423"
        x="807.87415"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan16498"
-         y="811.4173"
+         y="787.0423"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">parametr <tspan
    id="tspan16604"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'">dtype</tspan> určuje typ</tspan><tspan
          id="tspan16578"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16586"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16588"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16590"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16592"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16594"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16596"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
          id="tspan16600"
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen" /><tspan
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan4089" /><tspan
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan4091" /><tspan
-         y="818.71576"
+         y="794.34076"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan3226" /><tspan
-         y="825.95203"
+         y="801.30981"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan3228">typy z Pythonu</tspan><tspan
          id="tspan16580"
-         y="840.12701"
+         y="815.4848"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">specifikace řetězcem</tspan><tspan
-         y="854.302"
+         y="829.65979"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan19300">text, max 8 Unicode znaků</tspan><tspan
          id="tspan16582"
-         y="868.47705"
+         y="843.83484"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">řetězec bytů, max 3 byty</tspan><tspan
          id="tspan16584"
-         y="882.65204"
+         y="858.00983"
          x="807.87415"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">vrací pole daného typu</tspan></text>
@@ -2794,13 +2794,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44035339px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12002945px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="581.10242"
-       y="797.24408"
+       y="772.86908"
        id="text16506"><tspan
          style="font-size:14.00036812px;line-height:1.25;stroke-width:1.12002945px"
          sodipodi:role="line"
          id="tspan16504"
          x="581.10242"
-         y="797.24408">Datové typy</tspan></text>
+         y="772.86908">Datové typy</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2867,81 +2867,81 @@
     <text
        id="text16882"
        y="386.22049"
-       x="754.72449"
+       x="767.84949"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:11.25px;line-height:1.25999999"
          y="386.22049"
-         x="754.72449"
+         x="767.84949"
          sodipodi:role="line"
          id="tspan16915">+ - * / // <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
    id="tspan17000">...</tspan></tspan><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="400.75519"
-         x="754.72449"
+         y="400.48801"
+         x="767.84949"
          sodipodi:role="line"
          id="tspan16992">+= -= *= /= <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
    id="tspan17002">...</tspan></tspan><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="415.28992"
-         x="754.72449"
+         y="414.75552"
+         x="767.84949"
          sodipodi:role="line"
          id="tspan16994">&gt; &gt;= &lt; &lt;= == <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:Oxygen"
    id="tspan17004">...</tspan></tspan><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="429.4649"
-         x="754.72449"
+         y="428.93051"
+         x="767.84949"
          sodipodi:role="line"
          id="tspan16996">a @ b</tspan><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="443.63995"
-         x="754.72449"
+         y="443.10553"
+         x="767.84949"
          sodipodi:role="line"
          id="tspan16998">a.T</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="857.48041"
+       x="870.60541"
        y="386.22049"
        id="text16892"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
-         x="857.48041"
+         x="870.60541"
          y="386.22049"
          id="tspan16890">po prvcích</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
-         x="857.48041"
-         y="400.39551"
+         x="870.60541"
+         y="400.39548"
          id="tspan16944">modifikuje původní</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
-         x="857.48041"
+         x="870.60541"
          y="414.5705"
          id="tspan16946">vrací pravdivostní tabulku</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
-         x="857.48041"
+         x="870.60541"
          y="428.74548"
          id="tspan16948">maticové násobení</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
-         x="857.48041"
-         y="442.92047"
+         x="870.60541"
+         y="442.9205"
          id="tspan16950">transponovaná matice</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44035339px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12002945px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="751.18115"
+       x="764.30615"
        y="372.04724"
        id="text16896"><tspan
          style="font-size:14.00036812px;line-height:1.25;stroke-width:1.12002945px"
          sodipodi:role="line"
          id="tspan16894"
-         x="751.18115"
+         x="764.30615"
          y="372.04724">Matematické operace</tspan></text>
     <text
        id="text17008"
@@ -3049,11 +3049,11 @@
          id="tspan17156">prvek na souřadnici 0, 1</tspan></text>
     <text
        id="text17070"
-       y="726.37793"
+       y="694.50293"
        x="584.64569"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="726.37793"
+         y="694.50293"
          x="584.64569"
          id="tspan17068"
          sodipodi:role="line"
@@ -3062,92 +3062,92 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="587.15479"
-       y="740.26147"
+       y="708.38647"
        id="text17076"><tspan
          id="tspan17074"
          sodipodi:role="line"
          x="587.15479"
-         y="740.26147"
+         y="708.38647"
          style="font-size:11.25px;line-height:1.25999999">array[array &gt; 4]</tspan><tspan
          sodipodi:role="line"
          x="587.15479"
-         y="754.43646"
+         y="722.56146"
          style="font-size:11.25px;line-height:1.25999999"
          id="tspan17164">array[(array &gt; 4) &amp; (array &lt; 8)]</tspan><tspan
          sodipodi:role="line"
          x="587.15479"
-         y="768.61145"
+         y="736.73645"
          style="font-size:11.25px;line-height:1.25999999"
          id="tspan19380">array[(array &lt; 4) | (array &gt; 8)]</tspan></text>
     <text
        id="text17082"
-       y="740.55115"
+       y="708.67615"
        x="807.87408"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan17080"
-         y="740.55115"
+         y="708.67615"
          x="807.87408"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">vrátí vektor hodnot</tspan><tspan
-         y="754.72614"
+         y="722.85114"
          x="807.87408"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          id="tspan17168">skládání pomocí bitových operátorů</tspan></text>
     <text
        id="text17476"
-       y="924.59314"
+       y="903.96814"
        x="587.74103"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="924.59314"
+         y="903.96814"
          x="587.74103"
          sodipodi:role="line"
          id="tspan17474">if matrix:</tspan><tspan
          id="tspan17503"
          style="font-size:11.25px;line-height:1.25999999"
-         y="938.76813"
+         y="918.14313"
          x="587.74103"
          sodipodi:role="line">if matrix.any():</tspan><tspan
          id="tspan17505"
          style="font-size:11.25px;line-height:1.25999999"
-         y="952.94312"
+         y="932.31812"
          x="587.74103"
          sodipodi:role="line">if matrix.all():</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="708.21338"
-       y="924.59314"
+       y="903.96814"
        id="text17486"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
          sodipodi:role="line"
          x="708.21338"
-         y="924.59314"
+         y="903.96814"
          id="tspan17484">ValueError</tspan><tspan
          id="tspan17518"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="708.21338"
-         y="939.12787">alespoň jedna pravdivá hodnota</tspan><tspan
+         y="918.23566">alespoň jedna pravdivá hodnota</tspan><tspan
          id="tspan17520"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="708.21338"
-         y="953.30286">všechny pravdivé hodnoty</tspan></text>
+         y="932.41064">všechny pravdivé hodnoty</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44035339px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12002945px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="580.65436"
-       y="910.41992"
+       y="889.79492"
        id="text17490"><tspan
          style="font-size:14.00036812px;line-height:1.25;stroke-width:1.12002945px"
          sodipodi:role="line"
          id="tspan17488"
          x="580.65436"
-         y="910.41992">Je pole pravdivé?</tspan></text>
+         y="889.79492">Je pole pravdivé?</tspan></text>
     <g
        transform="translate(-281.32711,218.86669)"
        id="g21789">
@@ -4770,7 +4770,7 @@
       </g>
     </g>
     <g
-       transform="translate(878.27763,321.60293)"
+       transform="translate(878.27763,299.10293)"
        id="g30017"
        style="fill:#ffffff;fill-opacity:1">
       <g
@@ -5191,7 +5191,7 @@
     </g>
     <g
        id="g4356"
-       transform="translate(260.79892,233.03994)">
+       transform="translate(260.79892,210.53994)">
       <g
          transform="translate(211.12565,29.17726)"
          id="g4306" />
@@ -5273,44 +5273,6 @@
              height="13.859638"
              x="282.79263"
              y="414.55957" />
-        </g>
-        <g
-           transform="translate(211.12565,43.039147)"
-           id="g4352">
-          <g
-             id="g4342">
-            <g
-               id="g4340">
-              <rect
-                 style="fill:none;stroke:#000000;stroke-width:0.64172947;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect4338"
-                 width="13.859632"
-                 height="13.859638"
-                 x="255.11086"
-                 y="414.55963" />
-            </g>
-          </g>
-          <g
-             id="g4346"
-             style="fill:#8c8c8c">
-            <rect
-               style="fill:#8c8c8c;stroke:#000000;stroke-width:0.64172947;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect4344"
-               width="13.859632"
-               height="13.859638"
-               x="268.9689"
-               y="414.5596" />
-          </g>
-          <g
-             id="g4350">
-            <rect
-               y="414.55957"
-               x="282.79263"
-               height="13.859638"
-               width="13.859632"
-               id="rect4348"
-               style="fill:none;stroke:#000000;stroke-width:0.64172947;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          </g>
         </g>
       </g>
     </g>
@@ -14672,44 +14634,25 @@
          x="276.37799"
          y="513.77948"
          id="tspan4979">3D ze seznamu seznamů seznamů</tspan></text>
-    <g
-       id="g18861"
-       transform="translate(58.588399,-12.263862)">
-      <path
-         d="m 311.90081,604.12075 c -1.13375,0 -2.0125,-0.3225 -2.6375,-0.9575 -0.625,-0.635 -0.9375,-1.47 -0.9375,-2.5 0,-1.025 0.3175,-1.875 0.9575,-2.53875 0.635,-0.67375 1.50375,-1.01625 2.5975,-1.01625 1.09375,0 1.9625,0.3225 2.6175,0.9575 0.64875,0.63875 0.97625,1.47375 0.97625,2.5 0,1.03 -0.3125,1.885 -0.9375,2.55875 -0.615,0.66375 -1.49375,0.99625 -2.63625,0.99625 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24999988"
-         id="path14228-3"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 322.99456,604.12075 c -1.13375,0 -2.0125,-0.3225 -2.6375,-0.9575 -0.625,-0.635 -0.9375,-1.47 -0.9375,-2.5 0,-1.025 0.3175,-1.875 0.9575,-2.53875 0.635,-0.67375 1.50375,-1.01625 2.5975,-1.01625 1.09375,0 1.9625,0.3225 2.6175,0.9575 0.64875,0.63875 0.97625,1.47375 0.97625,2.5 0,1.03 -0.3125,1.885 -0.9375,2.55875 -0.615,0.66375 -1.49375,0.99625 -2.63625,0.99625 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24999988"
-         id="path14230-1"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 334.08831,604.12075 c -1.13375,0 -2.0125,-0.3225 -2.6375,-0.9575 -0.625,-0.635 -0.9375,-1.47 -0.9375,-2.5 0,-1.025 0.3175,-1.875 0.9575,-2.53875 0.635,-0.67375 1.50375,-1.01625 2.5975,-1.01625 1.09375,0 1.9625,0.3225 2.6175,0.9575 0.64875,0.63875 0.97625,1.47375 0.97625,2.5 0,1.03 -0.3125,1.885 -0.9375,2.55875 -0.615,0.66375 -1.49375,0.99625 -2.63625,0.99625 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24999988"
-         id="path14232-9"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="793.70081"
-       y="641.33856"
+       y="618.83856"
        id="text18934"><tspan
          id="tspan18932"
          sodipodi:role="line"
          x="793.70081"
-         y="641.33856"
+         y="618.83856"
          style="font-size:11.25px;line-height:1.25999999">cube[:, :, 0]</tspan></text>
     <text
        id="text18948"
-       y="655.51178"
+       y="633.01178"
        x="793.70081"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan18946"
-         y="655.51178"
+         y="633.01178"
          x="793.70081"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"><tspan
@@ -14739,12 +14682,12 @@
          id="tspan19103">řezání podle více dimenzí</tspan></text>
     <text
        id="text19122"
-       y="641.33856"
+       y="618.83856"
        x="588.18903"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:11.25px;line-height:1.25999999"
-         y="641.33856"
+         y="618.83856"
          x="588.18903"
          sodipodi:role="line"
          id="tspan19120">matrix[:, 1]</tspan></text>
@@ -14752,30 +14695,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="595.2757"
-       y="655.51178"
+       y="633.01178"
        id="text19143"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="595.2757"
-         y="655.51178"
+         y="633.01178"
          id="tspan19141"><tspan
    style="font-style:italic"
    id="tspan19135">kompletní interval</tspan> sežere dimenzi</tspan></text>
     <text
        id="text19173"
-       y="669.47504"
+       y="646.97504"
        x="800.33936"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan19171"
-         y="669.47504"
+         y="646.97504"
          x="800.33936"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          dx="0 0 0 0 0 0 0 0.66291261"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen;-inkscape-font-specification:'Oxygen Italic'"
    id="tspan19293">výpustka</tspan> nahradí kompletní</tspan><tspan
-         y="683.65002"
+         y="661.15002"
          x="800.33936"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
@@ -14791,5 +14734,16 @@
          sodipodi:role="line"
          x="467.71655"
          y="1024.0157">Strana 1/2</tspan></text>
+    <text
+       id="text3679"
+       y="590.65448"
+       x="270.09009"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan3677"
+         y="590.65448"
+         x="270.09009"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">a tak dále, počet dimezní není omezený</tspan></text>
   </g>
 </svg>
