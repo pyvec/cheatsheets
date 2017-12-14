@@ -638,7 +638,7 @@
          x="301.18112"
          sodipodi:role="line"
          id="tspan4750"
-         style="font-size:11.25px;line-height:1.25999999">    on_draw=vykresli_okynko</tspan><tspan
+         style="font-size:11.25px;line-height:1.25999999">    on_draw=vykresli_okynko,</tspan><tspan
          y="428.74368"
          x="301.18112"
          sodipodi:role="line"
