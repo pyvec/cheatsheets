@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 524.40944 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="classes.svg">
+  <title
+     id="title4028">NumPy cheat sheet</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6606"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#dcdcdc;stroke-opacity:1;fill:#dcdcdc;fill-opacity:1"
+         id="path6604" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5887"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#dcdcdc;stroke-opacity:1;fill:#dcdcdc;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="268.56309"
+     inkscape:cy="262.00762"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5802"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1056"
+     inkscape:window-x="72"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-center="false"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3371"
+       units="mm"
+       spacingx="3.5433073"
+       spacingy="3.5433072"
+       empspacing="4" />
+    <sodipodi:guide
+       position="524.20193,752.36603"
+       orientation="1,0"
+       id="guide17645"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NumPy cheat sheet</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Miro Hrončok</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Pyvec</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g4908">
+      <g
+         transform="translate(-7.5,-9.375)"
+         id="g17414">
+        <text
+           id="text10059-0"
+           y="1025.5997"
+           x="988.58282"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Oxygen;-inkscape-font-specification:Oxygen;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan6808"
+             y="1027.4089"
+             x="988.58282"
+             sodipodi:role="line"
+             style="font-size:6.25px;line-height:1.25" /></text>
+        <text
+           id="text9143-7"
+           y="1018.5132"
+           x="988.58282"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Oxygen;-inkscape-font-specification:Oxygen;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1020.3224"
+             x="988.58282"
+             id="tspan9145-1"
+             sodipodi:role="line"
+             style="font-size:6.25px;line-height:1.25" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Oxygen;-inkscape-font-specification:Oxygen;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="454.20782"
+           y="1017.7408"
+           id="text248"><tspan
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             id="tspan246"
+             x="454.20782"
+             y="1017.7408">© 2018 Miro Hrončok. Ke stažení na https://github.com/pyvec/cheatsheets</tspan><tspan
+             id="tspan3686"
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             x="454.20782"
+             y="1021.647" /><tspan
+             id="tspan6814"
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             x="454.20782"
+             y="1025.5532">Šířeno pod licencí CC BY-SA: https://creativecommons.org/licenses/by-sa/4.0/</tspan><tspan
+             id="tspan6812"
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             x="454.20782"
+             y="1033.3657">Ukázky kódu šířeny pod licencí CC0: https://creativecommons.org/publicdomain/zero/1.0/</tspan><tspan
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             x="454.20782"
+             y="1041.1782"
+             id="tspan8202">Obrázek prasátka pod licencí CC0 z https://opengameart.org/content/animal-pack-redux</tspan><tspan
+             id="tspan17416"
+             style="font-size:6.25px;line-height:1.25"
+             sodipodi:role="line"
+             x="454.20782"
+             y="1045.0845" /></text>
+        <g
+           transform="matrix(1.4916626,0,0,1.4916626,-1019.262,-503.0624)"
+           id="g17466">
+          <g
+             style="opacity:1"
+             id="layer1-5-7"
+             inkscape:label="Layer 1"
+             transform="matrix(0.23622046,0,0,0.23622046,992.12605,1015.2308)">
+            <g
+               inkscape:export-ydpi="300.23013"
+               inkscape:export-xdpi="300.23013"
+               inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by-sa.png"
+               id="g287-0"
+               transform="matrix(1.064765,0,0,1.0646458,-198.95796,-80.858434)">
+              <path
+                 style="fill:#aab2ab"
+                 d="m 182.23532,75.39014 114.06396,0.20312 c 1.59375,0 3.01758,-0.23682 3.01758,3.18018 l -0.13965,37.56689 H 179.3569 V 78.63379 c 0,-1.68457 0.16309,-3.24365 2.87842,-3.24365 z"
+                 nodetypes="ccccccc"
+                 id="path3817_2_-1"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="matrix(0.872921,0,0,0.872921,50.12536,143.2144)"
+                 id="g5908_2_-8">
+                <path
+                   style="fill:#ffffff"
+                   d="m 187.20944,-55.6792 c 0.006,8.68024 -7.02786,15.72095 -15.7081,15.72708 -8.68021,0.005 -15.72205,-7.02786 -15.72708,-15.70804 0,-0.0067 0,-0.01233 0,-0.01904 -0.005,-8.68134 7.02783,-15.72205 15.70807,-15.72711 8.68134,-0.0056 15.72208,7.02789 15.72711,15.70807 0,0.0056 0,0.01233 0,0.01904 z"
+                   rx="22.939548"
+                   type="arc"
+                   cy="264.3577"
+                   ry="22.939548"
+                   cx="296.35416"
+                   id="path5906_2_-8"
+                   inkscape:connector-curvature="0" />
+                <g
+                   transform="translate(-289.6157,99.0653)"
+                   id="g5706_2_-1">
+                  <path
+                     d="m 473.88455,-167.54724 c 3.48541,3.48596 5.22839,7.75391 5.22839,12.80273 0,5.04938 -1.7128,9.27148 -5.13834,12.66736 -3.63531,3.5766 -7.93179,5.36432 -12.88947,5.36432 -4.89777,0 -9.11987,-1.77261 -12.6651,-5.31955 -3.54584,-3.54581 -5.31845,-7.78299 -5.31845,-12.71213 0,-4.92859 1.77261,-9.19598 5.31845,-12.80273 3.4552,-3.48651 7.67725,-5.22894 12.6651,-5.22894 5.04829,0 9.31401,1.74243 12.79942,5.22894 z m -23.11798,2.34485 c -2.94675,2.97638 -4.41956,6.46289 -4.41956,10.46234 0,3.99835 1.45828,7.4552 4.37424,10.37067 2.91653,2.9165 6.38849,4.37476 10.41705,4.37476 4.02853,0 7.53018,-1.47281 10.50656,-4.41901 2.8259,-2.73584 4.23941,-6.17706 4.23941,-10.32642 0,-4.11804 -1.43646,-7.61292 -4.30768,-10.48474 -2.87064,-2.87067 -6.34988,-4.30652 -10.43829,-4.30652 -4.08837,0 -7.54638,1.44318 -10.37173,4.32892 z m 7.75449,8.70312 c -0.45032,-0.98163 -1.12433,-1.47223 -2.02325,-1.47223 -1.58914,0 -2.38342,1.06952 -2.38342,3.2085 0,2.13959 0.79428,3.20911 2.38342,3.20911 1.04938,0 1.79895,-0.5213 2.24866,-1.56512 l 2.20276,1.17303 c -1.04993,1.86548 -2.62506,2.79901 -4.72549,2.79901 -1.6199,0 -2.91763,-0.4967 -3.89206,-1.48956 -0.97607,-0.99341 -1.46274,-2.36273 -1.46274,-4.10797 0,-1.71558 0.50229,-3.07709 1.50748,-4.08563 1.00519,-1.00793 2.25705,-1.51251 3.75781,-1.51251 2.22012,0 3.80984,0.87488 4.77081,2.62286 z m 10.36334,0 c -0.45087,-0.98163 -1.11148,-1.47223 -1.98239,-1.47223 -1.62106,0 -2.43213,1.06952 -2.43213,3.2085 0,2.13959 0.81107,3.20911 2.43213,3.20911 1.05103,0 1.78717,-0.5213 2.20724,-1.56512 l 2.25201,1.17303 c -1.04825,1.86548 -2.62119,2.79901 -4.71768,2.79901 -1.61771,0 -2.91263,-0.4967 -3.88647,-1.48956 -0.97217,-0.99341 -1.45938,-2.36273 -1.45938,-4.10797 0,-1.71558 0.49448,-3.07709 1.48288,-4.08563 0.98782,-1.00793 2.24527,-1.51251 3.77347,-1.51251 2.21619,0 3.80368,0.87488 4.76132,2.62286 z"
+                     id="path5708_2_-5"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+              <path
+                 id="path294-6"
+                 d="M 297.29639,74.91064 H 181.06688 c -1.24658,0 -2.26074,1.01465 -2.26074,2.26123 v 39.49561 c 0,0.28174 0.22852,0.51074 0.51025,0.51074 h 119.73 c 0.28174,0 0.51074,-0.229 0.51074,-0.51074 v -39.4956 c 0,-1.24659 -1.01416,-2.26124 -2.26074,-2.26124 z m -116.22951,1.02149 h 116.22951 c 0.68359,0 1.23926,0.55615 1.23926,1.23975 0,0 0,15.91943 0,27.41846 H 215.4619 c -3.04492,5.50537 -8.91113,9.24365 -15.64355,9.24365 -6.73535,0 -12.6001,-3.73486 -15.64355,-9.24365 h -4.34814 c 0,-11.49902 0,-27.41846 0,-27.41846 -2e-5,-0.6836 0.55663,-1.23975 1.24022,-1.23975 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 id="g296-3"
+                 enable-background="new    ">
+                <path
+                   style="fill:#ffffff"
+                   id="path298-6"
+                   d="m 265.60986,112.8833 c 0.0801,0.15576 0.1875,0.28174 0.32129,0.37842 0.13379,0.0962 0.29004,0.16797 0.46973,0.21436 0.18066,0.0469 0.36719,0.0703 0.55957,0.0703 0.12988,0 0.26953,-0.0107 0.41895,-0.0327 0.14844,-0.0215 0.28809,-0.064 0.41895,-0.12598 0.12988,-0.062 0.23926,-0.14795 0.3252,-0.25684 0.0879,-0.10889 0.13086,-0.24707 0.13086,-0.41553 0,-0.18018 -0.0576,-0.32617 -0.17285,-0.43848 -0.11426,-0.1123 -0.26562,-0.20508 -0.45215,-0.28027 -0.18555,-0.0742 -0.39746,-0.13965 -0.63281,-0.1958 -0.23633,-0.0562 -0.47559,-0.11816 -0.71777,-0.18701 -0.24902,-0.062 -0.49121,-0.13818 -0.72754,-0.22852 -0.23535,-0.0898 -0.44727,-0.20703 -0.63379,-0.3501 -0.18652,-0.14307 -0.33691,-0.32178 -0.45215,-0.53662 -0.11426,-0.21484 -0.17188,-0.47461 -0.17188,-0.7793 0,-0.34277 0.0732,-0.63965 0.21875,-0.8916 0.14648,-0.25195 0.33789,-0.46191 0.57422,-0.63037 0.23535,-0.16797 0.50293,-0.29248 0.80176,-0.37354 0.29785,-0.0806 0.59668,-0.12109 0.89453,-0.12109 0.34863,0 0.68262,0.0391 1.00293,0.11719 0.31934,0.0776 0.60449,0.2041 0.85254,0.37842 0.24902,0.17432 0.44629,0.39697 0.59277,0.66797 0.14551,0.271 0.21875,0.59961 0.21875,0.98535 h -1.42188 c -0.0127,-0.19922 -0.0547,-0.36426 -0.125,-0.49463 -0.0713,-0.13086 -0.16602,-0.2334 -0.2832,-0.30859 -0.11816,-0.0742 -0.25293,-0.12744 -0.4043,-0.1582 -0.15234,-0.0312 -0.31738,-0.0469 -0.49707,-0.0469 -0.11719,0 -0.23535,0.0127 -0.35254,0.0371 -0.11816,0.0254 -0.22461,0.0688 -0.32031,0.13086 -0.0967,0.0625 -0.17578,0.14014 -0.2373,0.2334 -0.0615,0.0937 -0.0928,0.21191 -0.0928,0.35498 0,0.13086 0.0244,0.23682 0.0742,0.31738 0.0498,0.0811 0.14844,0.15576 0.29395,0.22412 0.14551,0.0684 0.34766,0.13721 0.60547,0.20557 0.25781,0.0684 0.59473,0.15576 1.01172,0.26123 0.12402,0.0249 0.2959,0.0703 0.5166,0.13574 0.2207,0.0654 0.43945,0.16943 0.65723,0.3125 0.21777,0.14355 0.40527,0.33496 0.56445,0.57422 0.1582,0.23975 0.2373,0.54639 0.2373,0.91992 0,0.30518 -0.0596,0.58838 -0.17773,0.84961 -0.11816,0.26172 -0.29395,0.4873 -0.52734,0.67676 -0.2334,0.19043 -0.52246,0.33789 -0.86719,0.44385 -0.3457,0.10596 -0.74609,0.15869 -1.19922,0.15869 -0.36719,0 -0.72363,-0.0454 -1.06934,-0.13574 -0.34473,-0.0903 -0.65039,-0.23242 -0.91504,-0.42578 -0.26367,-0.19336 -0.47363,-0.43994 -0.62988,-0.73877 -0.15527,-0.29932 -0.22949,-0.65381 -0.22363,-1.06494 h 1.42188 c -3e-5,0.22412 0.04,0.41406 0.12106,0.56933 z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   style="fill:#ffffff"
+                   id="path300-3"
+                   d="m 273.8667,107.8667 2.49316,6.66406 h -1.52246 l -0.50391,-1.48438 h -2.49316 l -0.52246,1.48438 h -1.47461 l 2.52051,-6.66406 z m 0.084,4.08594 -0.83984,-2.44336 h -0.0186 l -0.86914,2.44336 h 1.72753 z"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 id="g302-7"
+                 enable-background="new    ">
+                <path
+                   style="fill:#ffffff"
+                   id="path304-1"
+                   d="m 239.17821,107.8667 c 0.31738,0 0.60742,0.0283 0.86914,0.084 0.26172,0.0561 0.48633,0.14795 0.67383,0.27539 0.18652,0.12744 0.33203,0.29688 0.43457,0.5083 0.10254,0.21142 0.1543,0.47266 0.1543,0.78369 0,0.33594 -0.0762,0.61523 -0.22949,0.83936 -0.15234,0.22412 -0.37891,0.40723 -0.67773,0.55029 0.41211,0.11816 0.71973,0.3252 0.92285,0.62109 0.20312,0.29589 0.30469,0.65234 0.30469,1.06934 0,0.33594 -0.0654,0.62695 -0.19629,0.87305 -0.13086,0.24561 -0.30762,0.44629 -0.52832,0.60205 -0.22168,0.15576 -0.47461,0.271 -0.75781,0.34521 -0.28418,0.0752 -0.5752,0.1123 -0.875,0.1123 h -3.23633 v -6.66406 h 3.14159 v 1e-5 z m -0.1875,2.69531 c 0.26172,0 0.47656,-0.062 0.64551,-0.18604 0.16797,-0.12451 0.25195,-0.32568 0.25195,-0.60498 0,-0.15527 -0.0283,-0.28271 -0.084,-0.38184 -0.0566,-0.0996 -0.13086,-0.17676 -0.22461,-0.23291 -0.0937,-0.0557 -0.20117,-0.0947 -0.32227,-0.11621 -0.12207,-0.022 -0.24805,-0.0327 -0.37891,-0.0327 h -1.37305 v 1.55469 h 1.48536 z m 0.0859,2.82813 c 0.14355,0 0.28027,-0.0137 0.41113,-0.042 0.13086,-0.0278 0.24707,-0.0747 0.34668,-0.13965 0.0996,-0.0654 0.17871,-0.1543 0.23828,-0.26611 0.0596,-0.11181 0.0889,-0.25488 0.0889,-0.4292 0,-0.3418 -0.0967,-0.58594 -0.29004,-0.73193 -0.19336,-0.14599 -0.44922,-0.21924 -0.7666,-0.21924 h -1.59961 v 1.82812 h 1.57129 z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   style="fill:#ffffff"
+                   id="path306-8"
+                   d="m 241.88914,107.8667 h 1.64355 l 1.56055,2.63184 1.55078,-2.63184 h 1.63379 l -2.47363,4.10645 v 2.55762 h -1.46875 v -2.59473 z"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 transform="matrix(0.624995,0,0,0.624995,391.2294,176.9332)"
+                 id="g6316_1_-8">
+                <path
+                   style="fill:#ffffff"
+                   d="m -175.0083,-139.1153 c 0.006,9.4118 -7.61725,17.04779 -17.02982,17.05481 -9.41101,0.007 -17.047,-7.61725 -17.05481,-17.02979 0,-0.008 0,-0.0172 0,-0.025 -0.006,-9.41254 7.6188,-17.047 17.02982,-17.05481 9.41257,-0.007 17.04855,7.61804 17.05481,17.02985 0,0.009 0,0.0164 0,0.025 z"
+                   rx="29.209877"
+                   type="arc"
+                   cy="252.08646"
+                   ry="29.209877"
+                   cx="475.97119"
+                   id="path6318_1_-5"
+                   inkscape:connector-curvature="0" />
+                <g
+                   transform="translate(-23.9521,-89.72962)"
+                   id="g6320_1_-9">
+                  <path
+                     d="m -168.2204,-68.05536 c -5.17194,0 -9.54852,1.80469 -13.13135,5.41333 -3.67661,3.73444 -5.51413,8.1532 -5.51413,13.25635 0,5.10315 1.83752,9.49152 5.51413,13.1626 3.67502,3.67194 8.05316,5.50787 13.13135,5.50787 5.14066,0 9.59537,-1.85156 13.36728,-5.55475 3.55005,-3.51562 5.3266,-7.88831 5.3266,-13.11572 0,-5.22662 -1.8078,-9.64697 -5.42191,-13.25635 -3.61407,-3.60864 -8.03756,-5.41333 -13.27197,-5.41333 z m 0.0469,3.36017 c 4.23752,0 7.836,1.49298 10.79697,4.48053 2.98907,2.9563 4.48441,6.56567 4.48441,10.82898 0,4.29382 -1.46252,7.85712 -4.39224,10.68915 -3.08438,3.04926 -6.71411,4.57349 -10.88913,4.57349 -4.17505,0 -7.7735,-1.5094 -10.79541,-4.52661 -3.02188,-3.01953 -4.53284,-6.59692 -4.53284,-10.73602 0,-4.13831 1.52658,-7.74847 4.57971,-10.82898 2.92815,-2.98756 6.51098,-4.48054 10.74853,-4.48054 z"
+                     id="path6322_1_-1"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="m -176.49548,-52.02087 c 0.74377,-4.69769 4.05161,-7.20862 8.1954,-7.20862 5.96097,0 9.59225,4.32501 9.59225,10.09229 0,5.62738 -3.86411,9.99927 -9.686,9.99927 -4.00473,0 -7.58914,-2.46484 -8.24228,-7.30084 h 4.70319 c 0.14062,2.51099 1.77032,3.39459 4.09845,3.39459 2.65317,0 4.37817,-2.4649 4.37817,-6.23291 0,-3.95233 -1.49063,-6.04535 -4.28598,-6.04535 -2.04846,0 -3.8172,0.74457 -4.19064,3.30157 l 1.36874,-0.007 -3.70316,3.7016 -3.7016,-3.7016 z"
+                     id="path6324_1_-1"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+              <g
+                 id="g313-8">
+                <circle
+                   style="fill:#ffffff"
+                   id="circle315-2"
+                   r="10.8064"
+                   cy="90.224609"
+                   cx="242.56226" />
+                <g
+                   id="g317-4">
+                  <path
+                     id="path319-8"
+                     d="m 245.68994,87.09766 c 0,-0.4165 -0.33789,-0.75342 -0.75391,-0.75342 h -4.77246 c -0.41602,0 -0.75391,0.33691 -0.75391,0.75342 v 4.77295 h 1.33105 v 5.65234 h 3.61719 v -5.65234 h 1.33203 v -4.77295 z"
+                     inkscape:connector-curvature="0" />
+                  <circle
+                     id="circle321-8"
+                     r="1.63232"
+                     cy="84.083008"
+                     cx="242.5498" />
+                </g>
+                <path
+                   style="clip-rule:evenodd;fill-rule:evenodd"
+                   id="path323-8"
+                   d="m 242.53467,78.31836 c -3.23145,0 -5.96826,1.12744 -8.20752,3.38379 -2.29785,2.33301 -3.44629,5.09521 -3.44629,8.28418 0,3.18897 1.14844,5.93213 3.44629,8.22705 2.29785,2.29443 5.03418,3.44189 8.20752,3.44189 3.21289,0 5.99805,-1.15674 8.35352,-3.47168 2.2207,-2.19678 3.33008,-4.92969 3.33008,-8.19727 0,-3.26758 -1.12891,-6.02881 -3.3877,-8.28418 -2.25879,-2.25634 -5.02442,-3.38378 -8.2959,-3.38378 z m 0.0293,2.09961 c 2.64844,0 4.89746,0.93359 6.74707,2.80078 1.87012,1.84717 2.80469,4.10352 2.80469,6.76758 0,2.68359 -0.91504,4.91113 -2.74609,6.68066 -1.92773,1.90576 -4.19629,2.8584 -6.80566,2.8584 -2.60937,0 -4.8584,-0.94287 -6.74658,-2.82959 -1.88965,-1.88623 -2.8335,-4.12256 -2.8335,-6.70947 0,-2.58643 0.9541,-4.84229 2.8623,-6.76758 1.83057,-1.86719 4.07031,-2.80078 6.71777,-2.80078 z"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+          <g
+             transform="matrix(0.34225131,0,0,0.34225131,990.52547,1026.2401)"
+             id="g381">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="M 1.803,0.482 84.93,0.631 c 1.161,0 2.198,-0.173 2.198,2.333 L 87.025,30.52 H -0.295 V 2.862 c 0,-1.236 0.118,-2.38 2.098,-2.38 z"
+               id="path339" />
+            <g
+               id="g343">
+              <ellipse
+                 style="fill:#ffffff"
+                 cx="13.887"
+                 cy="15.502"
+                 rx="11.101"
+                 ry="11.174"
+                 id="ellipse341" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 23.271,4.061 c 3.484,2.592 5.754,6.744 5.755,11.44 -0.001,4.272 -1.88,8.095 -4.842,10.705 H 87.037 V 4.061 Z"
+               id="path345" />
+            <g
+               id="g371">
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 35.739,7.559 c 0.392,0 0.728,0.059 1.002,0.173 0.276,0.116 0.5,0.268 0.674,0.456 0.173,0.189 0.299,0.405 0.379,0.647 0.079,0.242 0.118,0.494 0.118,0.753 0,0.253 -0.039,0.503 -0.118,0.749 -0.08,0.244 -0.206,0.462 -0.379,0.65 -0.174,0.189 -0.397,0.341 -0.674,0.456 -0.274,0.114 -0.61,0.173 -1.002,0.173 h -1.452 v 2.267 H 32.905 V 7.559 Z m -0.379,2.976 c 0.158,0 0.312,-0.012 0.457,-0.035 0.147,-0.023 0.276,-0.069 0.388,-0.137 0.112,-0.068 0.201,-0.164 0.269,-0.288 0.068,-0.124 0.101,-0.287 0.101,-0.487 0,-0.2 -0.033,-0.362 -0.101,-0.487 C 36.407,8.977 36.317,8.88 36.205,8.814 36.094,8.746 35.965,8.7 35.817,8.676 35.671,8.652 35.518,8.64 35.36,8.64 h -1.073 v 1.896 z"
+                 id="path347" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 43.751,13.4 c -0.476,0.417 -1.133,0.625 -1.972,0.625 -0.851,0 -1.509,-0.207 -1.976,-0.62 -0.466,-0.412 -0.699,-1.052 -0.699,-1.913 V 7.559 h 1.381 v 3.934 c 0,0.171 0.016,0.338 0.045,0.505 0.029,0.165 0.091,0.311 0.185,0.439 0.094,0.126 0.225,0.229 0.392,0.309 0.167,0.081 0.392,0.12 0.673,0.12 0.493,0 0.833,-0.11 1.021,-0.332 0.188,-0.222 0.282,-0.568 0.282,-1.04 V 7.559 h 1.382 v 3.934 c -0.001,0.855 -0.238,1.49 -0.714,1.907 z"
+                 id="path349" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 49.07,7.559 c 0.3,0 0.572,0.027 0.818,0.081 0.244,0.054 0.457,0.14 0.633,0.261 0.177,0.121 0.312,0.282 0.41,0.482 0.096,0.201 0.146,0.45 0.146,0.745 0,0.318 -0.072,0.584 -0.216,0.796 -0.146,0.212 -0.357,0.388 -0.639,0.523 0.387,0.112 0.676,0.31 0.865,0.589 0.189,0.281 0.286,0.62 0.286,1.015 0,0.319 -0.062,0.595 -0.187,0.828 -0.123,0.232 -0.289,0.423 -0.496,0.571 -0.209,0.148 -0.445,0.257 -0.713,0.327 -0.269,0.07 -0.541,0.105 -0.822,0.105 H 46.108 V 7.559 Z m -0.175,2.56 c 0.246,0 0.448,-0.059 0.607,-0.178 C 49.66,9.823 49.738,9.632 49.738,9.365 49.738,9.218 49.713,9.096 49.66,9.002 49.607,8.909 49.537,8.834 49.449,8.781 49.359,8.728 49.26,8.69 49.144,8.672 49.029,8.65 48.912,8.64 48.789,8.64 h -1.294 v 1.48 z m 0.08,2.685 c 0.135,0 0.264,-0.014 0.387,-0.04 0.123,-0.026 0.23,-0.072 0.326,-0.133 0.092,-0.062 0.168,-0.147 0.226,-0.254 0.056,-0.104 0.083,-0.241 0.083,-0.406 0,-0.324 -0.092,-0.557 -0.271,-0.695 -0.182,-0.138 -0.424,-0.208 -0.723,-0.208 h -1.505 v 1.738 h 1.479 v -0.002 z"
+                 id="path351" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 54.143,7.559 v 5.156 h 3.062 v 1.168 H 52.76 V 7.559 Z"
+                 id="path353" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 59.748,7.559 v 6.324 H 58.366 V 7.559 Z"
+                 id="path355" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="M 65.451,9.247 C 65.369,9.115 65.265,8.998 65.142,8.898 65.019,8.796 64.879,8.718 64.724,8.662 64.568,8.605 64.408,8.578 64.236,8.578 c -0.312,0 -0.574,0.062 -0.793,0.183 -0.217,0.12 -0.394,0.283 -0.525,0.486 -0.136,0.204 -0.232,0.436 -0.296,0.695 -0.062,0.259 -0.093,0.528 -0.093,0.806 0,0.267 0.031,0.524 0.093,0.776 0.062,0.251 0.16,0.477 0.296,0.678 0.134,0.201 0.312,0.361 0.525,0.483 0.219,0.12 0.481,0.181 0.793,0.181 0.424,0 0.752,-0.13 0.99,-0.389 0.236,-0.26 0.383,-0.602 0.437,-1.028 H 67 c -0.034,0.396 -0.126,0.753 -0.271,1.072 -0.146,0.318 -0.342,0.591 -0.582,0.815 -0.238,0.225 -0.521,0.396 -0.845,0.513 -0.323,0.119 -0.678,0.178 -1.065,0.178 -0.479,0 -0.914,-0.084 -1.297,-0.252 -0.385,-0.169 -0.709,-0.398 -0.973,-0.695 -0.265,-0.295 -0.468,-0.642 -0.607,-1.04 -0.142,-0.399 -0.211,-0.829 -0.211,-1.289 0,-0.473 0.069,-0.911 0.211,-1.316 0.141,-0.404 0.344,-0.758 0.607,-1.059 0.264,-0.302 0.588,-0.536 0.973,-0.708 0.384,-0.172 0.815,-0.258 1.297,-0.258 0.348,0 0.676,0.051 0.981,0.15 0.308,0.102 0.583,0.248 0.827,0.44 0.243,0.191 0.443,0.43 0.604,0.712 0.158,0.283 0.259,0.608 0.301,0.975 H 65.61 C 65.586,9.524 65.533,9.377 65.451,9.247 Z"
+                 id="path357" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 35.615,16.418 c 0.405,0 0.782,0.062 1.131,0.192 0.35,0.13 0.651,0.324 0.906,0.585 0.255,0.26 0.455,0.586 0.599,0.975 0.144,0.391 0.216,0.849 0.216,1.371 0,0.463 -0.059,0.888 -0.176,1.277 -0.118,0.391 -0.295,0.727 -0.532,1.012 -0.238,0.281 -0.534,0.504 -0.89,0.668 -0.354,0.16 -0.772,0.242 -1.254,0.242 h -2.71 v -6.322 z m -0.096,5.154 c 0.199,0 0.393,-0.031 0.581,-0.098 0.188,-0.062 0.354,-0.173 0.502,-0.323 0.146,-0.151 0.264,-0.347 0.352,-0.59 0.088,-0.241 0.132,-0.536 0.132,-0.886 0,-0.317 -0.031,-0.606 -0.093,-0.863 C 36.931,18.556 36.831,18.333 36.689,18.153 36.548,17.97 36.363,17.83 36.13,17.732 35.899,17.634 35.613,17.586 35.272,17.586 h -0.984 v 3.986 z"
+                 id="path359" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 39.8,18.289 c 0.141,-0.403 0.344,-0.756 0.606,-1.059 0.265,-0.303 0.589,-0.538 0.973,-0.709 0.385,-0.171 0.816,-0.257 1.298,-0.257 0.487,0 0.921,0.086 1.303,0.257 0.381,0.171 0.704,0.406 0.969,0.709 0.264,0.303 0.466,0.652 0.605,1.059 0.143,0.404 0.213,0.845 0.213,1.316 0,0.46 -0.07,0.891 -0.213,1.288 -0.142,0.397 -0.344,0.744 -0.605,1.04 -0.266,0.295 -0.588,0.525 -0.969,0.695 -0.382,0.166 -0.815,0.252 -1.303,0.252 -0.481,0 -0.913,-0.086 -1.298,-0.252 -0.384,-0.17 -0.708,-0.4 -0.973,-0.695 -0.263,-0.296 -0.466,-0.645 -0.606,-1.04 -0.14,-0.397 -0.211,-0.828 -0.211,-1.288 0,-0.471 0.07,-0.911 0.211,-1.316 z m 1.262,2.09 c 0.062,0.252 0.16,0.479 0.295,0.68 0.135,0.2 0.312,0.359 0.527,0.482 0.218,0.121 0.481,0.183 0.792,0.183 0.312,0 0.576,-0.062 0.792,-0.183 0.218,-0.121 0.394,-0.281 0.529,-0.482 0.134,-0.2 0.231,-0.428 0.295,-0.68 0.062,-0.25 0.092,-0.508 0.092,-0.774 0,-0.276 -0.03,-0.547 -0.092,-0.806 -0.062,-0.262 -0.161,-0.492 -0.295,-0.696 -0.136,-0.201 -0.312,-0.365 -0.529,-0.485 -0.216,-0.121 -0.48,-0.184 -0.792,-0.184 -0.311,0 -0.574,0.062 -0.792,0.184 -0.216,0.12 -0.393,0.284 -0.527,0.485 -0.135,0.204 -0.233,0.437 -0.295,0.696 -0.062,0.259 -0.093,0.527 -0.093,0.806 10e-4,0.266 0.032,0.524 0.093,0.774 z"
+                 id="path361" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 49.092,16.418 1.471,4.348 h 0.02 l 1.393,-4.348 h 1.942 v 6.322 h -1.294 v -4.48 h -0.02 l -1.539,4.48 H 50 l -1.54,-4.437 h -0.019 v 4.437 h -1.293 v -6.322 z"
+                 id="path363" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 58.764,16.418 2.35,6.322 H 59.68 L 59.204,21.332 H 56.853 L 56.361,22.74 H 54.97 l 2.377,-6.322 z m 0.08,3.879 -0.793,-2.322 h -0.018 l -0.817,2.322 z"
+                 id="path365" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="M 63.547,16.418 V 22.74 H 62.165 V 16.418 Z"
+                 id="path367" />
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 66.604,16.418 2.623,4.242 h 0.018 v -4.242 h 1.294 v 6.322 h -1.384 l -2.611,-4.234 h -0.02 V 22.74 H 65.23 v -6.322 z"
+                 id="path369" />
+            </g>
+            <path
+               sodipodi:nodetypes="sssssssssssscccss"
+               inkscape:connector-curvature="0"
+               d="M 85.852,0 H 0.45638401 c -0.908,0 -1.64700001,0.744 -1.64700001,1.658 v 28.969 c 0,0.207 0.167,0.373 0.37200001,0.373 H 87.128 C 87.333,31 87.5,30.834 87.5,30.627 V 1.658 C 87.5,0.744 86.762,0 85.852,0 Z M 0.45638401,0.75 H 85.852 c 0.498,0 0.902,0.406 0.902,0.908 V 30.215 H -0.44561599 V 21.789 1.658 c 0,-0.501 0.405,-0.908 0.902,-0.908 z"
+               id="path373" />
+            <g
+               id="g379">
+              <ellipse
+                 style="fill:#ffffff"
+                 cx="14.156"
+                 cy="15.661"
+                 rx="11.004"
+                 ry="11.076"
+                 id="ellipse375" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="text2809_4_"
+                 d="m 14.22,8.746 c -3.862,0 -4.834,3.669 -4.834,6.779 0,3.111 0.971,6.779 4.834,6.779 3.863,0 4.834,-3.67 4.834,-6.779 0,-3.111 -0.971,-6.779 -4.834,-6.779 z m 0,2.555 c 0.157,0 0.3,0.024 0.435,0.06 0.278,0.24 0.414,0.573 0.147,1.038 l -2.572,4.76 c -0.079,-0.603 -0.091,-1.195 -0.091,-1.634 0,-1.37 0.094,-4.224 2.081,-4.224 z m 1.926,2.193 c 0.137,0.731 0.155,1.493 0.155,2.03 0,1.37 -0.094,4.223 -2.08,4.223 -0.156,0 -0.301,-0.017 -0.435,-0.049 -0.025,-0.01 -0.049,-0.019 -0.074,-0.025 -0.04,-0.012 -0.084,-0.024 -0.122,-0.041 -0.442,-0.188 -0.721,-0.531 -0.319,-1.139 z" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path2815_4_"
+                 d="m 14.195,3.748 c -3.245,0 -5.98,1.137 -8.21,3.422 -1.128,1.135 -1.99,2.431 -2.589,3.876 -0.585,1.43 -0.876,2.921 -0.876,4.478 0,1.57 0.291,3.062 0.876,4.479 0.585,1.417 1.434,2.69 2.548,3.826 1.128,1.121 2.395,1.985 3.802,2.588 1.421,0.59 2.903,0.884 4.449,0.884 1.547,0 3.05,-0.304 4.499,-0.907 1.448,-0.604 2.74,-1.471 3.883,-2.605 1.101,-1.078 1.934,-2.317 2.49,-3.719 0.571,-1.415 0.853,-2.932 0.853,-4.544 0,-1.598 -0.281,-3.112 -0.852,-4.528 C 24.497,9.569 23.661,8.305 22.561,7.197 20.263,4.895 17.469,3.748 14.195,3.748 Z m 0.049,2.119 c 2.646,0 4.904,0.944 6.784,2.836 0.906,0.912 1.6,1.954 2.073,3.119 0.473,1.164 0.713,2.398 0.713,3.703 0,2.707 -0.92,4.952 -2.744,6.746 -0.948,0.927 -2.012,1.638 -3.196,2.128 -1.17,0.489 -2.375,0.732 -3.63,0.732 -1.268,0 -2.481,-0.239 -3.638,-0.717 C 9.45,23.925 8.413,23.223 7.493,22.31 6.573,21.385 5.864,20.34 5.363,19.175 4.876,17.997 4.625,16.784 4.625,15.522 4.625,14.246 4.876,13.025 5.363,11.86 5.864,10.682 6.574,9.625 7.493,8.685 9.317,6.809 11.57,5.867 14.244,5.867 Z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="262.53305"
+       y="351.52155"
+       id="text7244"><tspan
+         sodipodi:role="line"
+         id="tspan7246"
+         x="262.53305"
+         y="351.52155"
+         style="font-size:25.00000191px;line-height:1.25;stroke-width:1px">Třídy a objekty</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.767212"
+       y="839.95636"
+       id="text4409"><tspan
+         id="tspan4407"
+         sodipodi:role="line"
+         x="20.767212"
+         y="839.95636"
+         style="font-size:11.25px;line-height:1.25999999">mikes = Kotatko('Mikeš')</tspan></text>
+    <g
+       id="g4705">
+      <text
+         id="text4535"
+         y="386.22046"
+         x="285.50717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4527"
+           y="386.22046"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Vlastní třída, neboli typ</tspan><tspan
+           id="tspan4529"
+           y="400.39545"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Inicializace objektu, může přebírat argumenty</tspan><tspan
+           id="tspan4533"
+           y="414.57047"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Nastavení atributu objektu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="20.767212"
+         y="386.22046"
+         id="text4588"><tspan
+           id="tspan4576"
+           sodipodi:role="line"
+           x="20.767212"
+           y="386.22046"
+           style="font-size:11.25px;line-height:1.25999999">class Zviratko:</tspan><tspan
+           id="tspan4578"
+           sodipodi:role="line"
+           x="20.767212"
+           y="400.39545"
+           style="font-size:11.25px;line-height:1.25999999">    def __init__(self, jmeno):</tspan><tspan
+           id="tspan4586"
+           sodipodi:role="line"
+           x="20.767212"
+           y="414.57047"
+           style="font-size:11.25px;line-height:1.25999999">        self.jmeno = jmeno</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:7.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="M 181.63805,721.56882 C 281.7784,649.91937 295.17347,544.84601 206.16583,411.32572"
+       id="path5852"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6602"
+       d="M 49.055533,748.74824 C 28.335369,651.56986 38.127692,568.01705 112.03224,454.41504"
+       style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:7.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6606)" />
+    <g
+       id="g4714">
+      <text
+         id="text1391"
+         y="442.80191"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="442.80191"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan1315">    def snez(self, jidlo):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="456.9769"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan1389">        print(self.jmeno, 'jí', jidlo)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="285.50717"
+         y="442.93921"
+         id="text4619"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="442.93921"
+           id="tspan4615">Metoda – první argument je <tspan
+   id="tspan4623"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'">self</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="457.20673"
+           id="tspan4617">Čtení atributu objektu</tspan></text>
+    </g>
+    <g
+       id="g4723">
+      <text
+         id="text2207"
+         y="499.61078"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="499.61078"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan2139">class Kotatko(Zviratko):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="513.78577"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan2141">    def zamnoukej(self):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="527.96075"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan2205">        print(self.jmeno, 'mňau!')</tspan></text>
+      <text
+         id="text4631"
+         y="499.65796"
+         x="285.50717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4627"
+           y="499.65796"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Dědičnost (koťátko je druh zvířátka)</tspan><tspan
+           id="tspan4629"
+           y="513.83295"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Metoda specifická pro koťátka</tspan></text>
+    </g>
+    <g
+       id="g4732">
+      <text
+         id="text3191"
+         y="570.86072"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="570.86072"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3133">class Prasatko(Zviratko):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="585.03571"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3135">    def zakvic(self):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="599.21069"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3189">        print(self.jmeno, 'kví!')</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="285.50717"
+         y="570.43921"
+         id="text4637"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="570.43921"
+           id="tspan4633">Dědičnost (prasátko je druh zvířátka)</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="584.6142"
+           id="tspan4635">Metoda specifická pro prasátka</tspan></text>
+    </g>
+    <g
+       id="g4744">
+      <text
+         id="text3635"
+         y="627.11072"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="627.11072"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3585">    def snez(self, jidlo):</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="641.28571"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3587">        self.zakvic()</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="655.46069"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3589">        super().snez(jidlo)</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="669.63574"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3633">        print(self.jmeno,</tspan><tspan
+           id="tspan4655"
+           style="font-size:11.25px;line-height:1.25999999"
+           y="683.81073"
+           x="20.767212"
+           sodipodi:role="line">              'se po jídle válí v bahně!')</tspan></text>
+      <text
+         id="text4643"
+         y="627.15796"
+         x="285.50717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4641"
+           y="627.15796"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Přepisování metody předka</tspan><tspan
+           id="tspan4651"
+           y="641.33295"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Volání vlastní metody</tspan><tspan
+           id="tspan4653"
+           y="655.50793"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Volání metody jako na předkovi</tspan></text>
+    </g>
+    <circle
+       style="opacity:1;fill:#ee9fee;fill-opacity:0.80056977;stroke:none;stroke-width:3.85450816;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8168"
+       cx="23.63048"
+       cy="723.55762"
+       r="5.4690289" />
+    <circle
+       r="5.4690289"
+       cy="723.55762"
+       cx="97.939148"
+       id="circle8170"
+       style="opacity:1;fill:#ee9fee;fill-opacity:0.80056977;stroke:none;stroke-width:3.85450816;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g4750">
+      <text
+         id="text3934"
+         y="726.67987"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="726.67987"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan3932">prasatko = Prasatko('Ťulda')</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="285.50717"
+         y="726.53296"
+         id="text4664"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="726.53296"
+           id="tspan4662">Vytvoření objektu (instance) třídy</tspan></text>
+    </g>
+    <g
+       id="g4756">
+      <text
+         id="text4169"
+         y="754.91858"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="754.91858"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4167">prasatko.snez('žalud')</tspan></text>
+      <text
+         id="text4673"
+         y="754.65796"
+         x="285.50717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4671"
+           y="754.65796"
+           x="285.50717"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen">Volání metody</tspan></text>
+    </g>
+    <g
+       id="g4766">
+      <text
+         id="text4323"
+         y="783.70648"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="783.70648"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4299">karlicka = Prasatko('Karlička')</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="797.88147"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4301">print(karlicka.jmeno)</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="812.05646"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4321">karlicka.jmeno = 'Karla'</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="285.50717"
+         y="783.25171"
+         id="text4677"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="783.25171"
+           id="tspan4675">Objektů jedné třídy může být víc</tspan><tspan
+           id="tspan4679"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="797.4267">Můžeme se dívat na jejich atributy</tspan><tspan
+           id="tspan4681"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="811.60168">A taky je měnit</tspan></text>
+    </g>
+    <g
+       id="g5802">
+      <g
+         id="g5733">
+        <rect
+           y="832.73718"
+           x="255.11505"
+           height="84.949425"
+           width="255.11794"
+           id="rect5717"
+           style="opacity:1;fill:#c9daff;fill-opacity:1;stroke:none;stroke-width:0.88381732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           ry="14.232544" />
+        <rect
+           style="opacity:1;fill:#c9daff;fill-opacity:1;stroke:none;stroke-width:0.94188738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4910"
+           width="495.83218"
+           height="56.414307"
+           x="14.400805"
+           y="861.27228"
+           ry="10.760559" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13132381px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.76094359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="382.88388"
+         y="855.60529"
+         id="text5725"><tspan
+           sodipodi:role="line"
+           id="tspan5723"
+           x="382.88388"
+           y="855.60529"
+           style="font-size:19.023592px;line-height:1.25;fill:#000080;stroke-width:0.76094359px">Polymorfismus</tspan></text>
+      <text
+         id="text4463"
+         y="882.53223"
+         x="20.767212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="882.53223"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4451">for zviratko in [prasatko, karlicka, mikes, Kotatko('Mourek')]:</tspan><tspan
+           style="font-size:11.25px;line-height:1.25999999"
+           y="896.70721"
+           x="20.767212"
+           sodipodi:role="line"
+           id="tspan4461">    zviratko.snez('papání')</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="285.50717"
+         y="896.22046"
+         id="text4685"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="896.22046"
+           id="tspan4683">Nevíme jestli to je prasátko nebo koťátko,</tspan><tspan
+           id="tspan4687"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+           sodipodi:role="line"
+           x="285.50717"
+           y="910.39545">     ale to nevadí, tohle funguje</tspan></text>
+    </g>
+    <g
+       id="g5850">
+      <g
+         id="g5834">
+        <rect
+           ry="10.760559"
+           y="931.58478"
+           x="14.400805"
+           height="49.851807"
+           width="495.83218"
+           id="rect5729"
+           style="opacity:1;fill:#b6ffc8;fill-opacity:1;stroke:none;stroke-width:0.94188738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#b6ffc8;fill-opacity:1;stroke:none;stroke-width:0.94188738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5757"
+           width="183.98868"
+           height="78.28009"
+           x="14.400805"
+           y="931.58478"
+           ry="10.760559" />
+      </g>
+      <text
+         id="text5761"
+         y="997.54431"
+         x="106.24385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13132381px;line-height:0%;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004110;fill-opacity:1;stroke:none;stroke-width:0.76094359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:19.023592px;line-height:1.25;fill:#004110;fill-opacity:1;stroke-width:0.76094359px"
+           y="997.54431"
+           x="106.24385"
+           id="tspan5759"
+           sodipodi:role="line">Typová kontrola</tspan></text>
+      <g
+         transform="translate(0,14.0625)"
+         id="g4784">
+        <text
+           id="text1271"
+           y="938.70178"
+           x="20.767212"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:11.25px;line-height:1.25999999"
+             y="938.70178"
+             x="20.767212"
+             sodipodi:role="line"
+             id="tspan1352">    isinstance(zviratko, Zviratko)</tspan><tspan
+             style="font-size:11.25px;line-height:1.25999999"
+             y="952.87677"
+             x="20.767212"
+             sodipodi:role="line"
+             id="tspan1354">    type(zviratko) == Zviratko</tspan><tspan
+             style="font-size:11.25px;line-height:1.25999999"
+             y="960.17523"
+             x="20.767212"
+             sodipodi:role="line"
+             id="tspan1356" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="285.50717"
+           y="938.40796"
+           id="text4693"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+             sodipodi:role="line"
+             x="285.50717"
+             y="938.40796"
+             id="tspan4689">Je instancí zvířátka? Ano</tspan><tspan
+             id="tspan4691"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+             sodipodi:role="line"
+             x="285.50717"
+             y="952.58295">Je třídou objektu <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
+   id="tspan4695">Zviratko</tspan>? Ne</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.40623218,0,0,0.40623218,206.66454,490.18041)"
+       id="g1568">
+      <path
+         d="m 670.9,261.5 1.9,1.2 q 3.6,-1.9 8.05,-3.05 h -0.05 q 9.5,-2.55 17.4,-0.35 h 0.05 q 8.35,2.35 10.55,8.25 l 0.15,0.4 0.8,2.8 q 4.05,15.2 0.4,27.6 l -0.05,0.2 -0.4,1.1 -0.05,0.15 q -2.3,6.95 -6.35,10.8 0.6,4.55 0.6,9.4 v 2 0.15 q -0.5,16.15 -7.6,29.6 -2.1,3.9 -4.75,7.6 l -0.4,0.5 q -3.2,4.25 -7.15,8.25 l -4.9,4.5 -0.05,0.05 q -2.15,1.8 -4.45,3.4 -16.9,11.95 -38.7,11.95 -21.85,0 -38.7,-11.9 v -0.05 l -4.35,-3.3 -5.05,-4.65 q -8.1,-8.1 -12.85,-17.45 l -0.25,-0.6 -5.55,-16.7 -0.2,-1.15 -0.05,-0.3 -0.2,-1 v -0.2 l -0.05,-0.2 v -0.2 l -0.05,-0.2 -0.15,-1.5 -0.1,-0.5 v -0.3 l -0.05,-0.35 v -0.05 l -0.05,-0.25 v -0.1 -0.05 l -0.05,-0.4 -0.05,-0.55 -0.05,-0.55 -0.15,-3.3 -0.05,-2.2 q 0,-4.85 0.6,-9.4 -4.1,-3.9 -6.35,-10.9 v 0.05 l -0.4,-1.2 -0.05,-0.2 q -3.65,-12.4 0.45,-27.55 v 0.05 l 0.8,-2.9 0.1,-0.35 q 2.1,-5.95 10.6,-8.25 7.9,-2.2 17.4,0.35 H 591 q 4.45,1.15 8.1,3.05 l 1.9,-1.2 h -0.05 Q 616.5,252 635.9,252 q 19.45,0 35,9.5"
+         id="path172"
+         inkscape:connector-curvature="0"
+         style="fill:#9c619c;stroke:none" />
+      <path
+         d="m 664.3,278.7 q 0.1,-3.8 4,-7.9 5.05,-5.05 13.55,-7.3 8.35,-2.25 15.3,-0.35 6.2,1.75 7.95,5.95 l 0.75,2.65 q 3.75,14.05 0.45,25.5 l -0.4,1.15 q 2.2,-10.35 -1.05,-22.75 l -0.8,-2.7 q -1.7,-4.15 -7.95,-5.95 -6.95,-1.9 -15.3,0.35 -8.5,2.25 -13.55,7.35 -2,2 -2.95,4 m -98.35,19.75 -0.4,-1.2 Q 562.25,285.8 566,271.8 l 0.75,-2.7 q 1.7,-4.2 7.95,-5.9 6.95,-1.9 15.3,0.35 8.5,2.2 13.55,7.3 3.85,4.05 4,7.85 -1,-1.95 -2.95,-3.95 -5.05,-5.15 -13.55,-7.35 -8.35,-2.25 -15.3,-0.35 -6.3,1.75 -7.95,5.9 l -0.8,2.75 q -3.3,12.35 -1.05,22.75"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="fill:#f095f0;stroke:none" />
+      <path
+         d="M 565.95,298.45 Q 563.7,288.05 567,275.7 l 0.8,-2.75 q 1.65,-4.15 7.95,-5.9 6.95,-1.9 15.3,0.35 8.5,2.2 13.55,7.35 1.95,2 2.95,3.95 l -0.1,1.3 -0.7,2.8 -0.85,2.9 -1.7,4.6 q -0.75,-1.6 -2.3,-3.3 -3.7,-3.7 -9.8,-5.3 -6.05,-1.65 -11.05,-0.25 -4.5,1.3 -5.7,4.35 l -0.55,1.85 q -2.7,10.1 -0.3,18.35 l 0.45,1.4 q 0.6,1.9 1.55,3.4 l -0.8,-0.3 q -6.75,-2.7 -9.75,-12.05 M 705.9,298.4 q -3.05,9.4 -9.8,12.1 l -0.75,0.25 q 0.9,-1.45 1.5,-3.4 l 0.5,-1.35 q 2.4,-8.25 -0.3,-18.35 l -0.6,-1.9 q -1.15,-3.05 -5.65,-4.35 -5.05,-1.4 -11.05,0.25 -6.1,1.65 -9.8,5.3 -1.6,1.75 -2.3,3.3 l -1.75,-4.55 -0.8,-2.95 -0.7,-2.8 -0.1,-1.25 q 0.95,-2 2.95,-4 5.05,-5.1 13.55,-7.35 8.35,-2.25 15.3,-0.35 6.25,1.8 7.95,5.95 l 0.8,2.7 q 3.25,12.4 1.05,22.75"
+         id="path176"
+         inkscape:connector-curvature="0"
+         style="fill:#d987d9;stroke:none" />
+      <path
+         d="m 695.35,310.75 -0.8,0.3 q -4.5,1.15 -9,-0.6 -4.05,-1.55 -8.05,-5.5 -5.7,-5.45 -9.3,-13.3 l -0.55,-1.4 q 0.7,-1.55 2.3,-3.3 3.7,-3.65 9.8,-5.3 6,-1.65 11.05,-0.25 4.5,1.3 5.65,4.35 l 0.6,1.9 q 2.7,10.1 0.3,18.35 l -0.5,1.35 q -0.6,1.95 -1.5,3.4 m -91.15,-20.45 -0.55,1.35 q -3.6,7.9 -9.3,13.3 -4,3.95 -8.05,5.5 -4.5,1.75 -9,0.6 l -0.8,-0.25 q -0.95,-1.5 -1.55,-3.4 L 574.5,306 q -2.4,-8.25 0.3,-18.35 l 0.55,-1.85 q 1.2,-3.05 5.7,-4.35 5,-1.4 11.05,0.25 6.1,1.6 9.8,5.3 1.55,1.7 2.3,3.3"
+         id="path178"
+         inkscape:connector-curvature="0"
+         style="fill:#c97dc9;stroke:none" />
+      <path
+         d="m 571.95,322 -0.05,-2 q 0,-7.85 1.65,-15.05 3.9,-17.05 17.1,-30.2 4.25,-4.25 8.85,-7.5 l 3.55,-2.3 q 14.6,-8.95 32.85,-8.95 18.3,0 32.9,8.9 l 3.5,2.3 q 4.65,3.3 8.9,7.55 18.7,18.7 18.7,45.25 v 2 q -0.7,-25.25 -18.7,-43.25 -4.4,-4.4 -9.2,-7.75 -2.8,-1.95 -5.75,-3.55 l -3.15,2.5 q -11.25,8.05 -27.2,8.05 -15.95,0 -27.25,-8.05 l -3.1,-2.45 q -2.95,1.6 -5.75,3.55 -4.8,3.35 -9.15,7.7 -11.65,11.6 -16,26.2 -2.45,8.05 -2.7,17.05"
+         id="path180"
+         inkscape:connector-curvature="0"
+         style="fill:#ffaaff;stroke:none" />
+      <path
+         d="m 571.95,322 q 0.25,-9 2.7,-17.05 4.35,-14.6 16,-26.2 4.35,-4.35 9.15,-7.7 2.8,-1.95 5.75,-3.55 l 3.1,2.45 q 11.3,8.05 27.25,8.05 15.95,0 27.2,-8.05 l 3.15,-2.5 q 2.95,1.6 5.75,3.55 4.8,3.35 9.2,7.75 18,18 18.7,43.25 -0.45,15.2 -7.15,27.85 -1.95,3.7 -4.45,7.15 h -0.05 q -3.15,4.3 -7.1,8.25 l -4.65,4.3 -4.2,3.2 Q 656.4,384 635.9,384 q -20.55,0 -36.4,-11.2 l -4.1,-3.15 -4.8,-4.4 q -7.6,-7.6 -12.1,-16.45 l -5.55,-16.7 v -0.2 l -0.2,-1.1 -0.05,-0.25 -0.05,-0.5 -0.1,-0.55 -0.15,-1.25 v -0.2 l -0.1,-0.6 v -0.25 l -0.05,-0.2 v -0.25 l -0.05,-0.3 -0.05,-0.65 v -0.25 l -0.05,-0.3 -0.15,-3.25 m 112.45,0.5 q 0,-5.2 -3.65,-8.85 -3.65,-3.65 -8.85,-3.65 -5.1,0 -8.8,3.65 -3.65,3.65 -3.65,8.85 0,5.15 3.65,8.75 3.7,3.7 8.8,3.7 5.2,0 8.85,-3.7 3.65,-3.6 3.65,-8.75 m -97,0 q 0,5.15 3.65,8.75 3.65,3.7 8.85,3.7 5.1,0 8.8,-3.7 3.65,-3.6 3.65,-8.75 0,-5.2 -3.65,-8.85 -3.7,-3.65 -8.8,-3.65 -5.2,0 -8.85,3.65 -3.65,3.65 -3.65,8.85"
+         id="path182"
+         inkscape:connector-curvature="0"
+         style="fill:#ee9fee;stroke:none" />
+      <path
+         d="m 587.4,322.5 q 0,-5.2 3.65,-8.85 3.65,-3.65 8.85,-3.65 5.1,0 8.8,3.65 3.65,3.65 3.65,8.85 0,5.15 -3.65,8.75 -3.7,3.7 -8.8,3.7 -5.2,0 -8.85,-3.7 -3.65,-3.6 -3.65,-8.75 m 97,0 q 0,5.15 -3.65,8.75 -3.65,3.7 -8.85,3.7 -5.1,0 -8.8,-3.7 -3.65,-3.6 -3.65,-8.75 0,-5.2 3.65,-8.85 3.7,-3.65 8.8,-3.65 5.2,0 8.85,3.65 3.65,3.65 3.65,8.85 m -4.75,0.2 q 0,-3.6 -2.5,-6.15 -2.5,-2.5 -6.15,-2.5 -3.55,0 -6.15,2.5 -2.5,2.55 -2.5,6.15 0,3.6 2.5,6.05 2.6,2.55 6.15,2.55 3.65,0 6.15,-2.55 2.5,-2.45 2.5,-6.05 m -87.55,0 q 0,3.6 2.55,6.05 2.5,2.55 6.15,2.55 3.55,0 6.1,-2.55 2.55,-2.45 2.55,-6.05 0,-3.6 -2.55,-6.15 -2.55,-2.5 -6.1,-2.5 -3.65,0 -6.15,2.5 -2.55,2.55 -2.55,6.15"
+         id="path184"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         d="m 592.1,322.7 q 0,-3.6 2.55,-6.15 2.5,-2.5 6.15,-2.5 3.55,0 6.1,2.5 2.55,2.55 2.55,6.15 0,3.6 -2.55,6.05 -2.55,2.55 -6.1,2.55 -3.65,0 -6.15,-2.55 -2.55,-2.45 -2.55,-6.05 m 87.55,0 q 0,3.6 -2.5,6.05 -2.5,2.55 -6.15,2.55 -3.55,0 -6.15,-2.55 -2.5,-2.45 -2.5,-6.05 0,-3.6 2.5,-6.15 2.6,-2.5 6.15,-2.5 3.65,0 6.15,2.5 2.5,2.55 2.5,6.15"
+         id="path186"
+         inkscape:connector-curvature="0"
+         style="fill:#5b5b5b;stroke:none" />
+      <path
+         d="m 610,348.55 -0.1,-1.1 v -0.85 q 0,-10.8 7.55,-18.4 l 1.85,-1.7 q 7.1,-5.9 16.6,-5.9 9.5,0 16.55,5.95 l 1.8,1.65 q 7.65,7.6 7.65,18.4 v 0.85 l -0.05,1.05 q -0.7,-9.45 -7.6,-16.3 l -1.8,-1.65 q -7.05,-5.95 -16.55,-5.95 -9.5,0 -16.6,5.9 l -1.85,1.7 q -6.8,6.85 -7.45,16.35"
+         id="path188"
+         inkscape:connector-curvature="0"
+         style="fill:#ffc4ff;stroke:none" />
+      <path
+         d="m 610,348.55 q 0.65,-9.5 7.45,-16.35 l 1.85,-1.7 q 7.1,-5.9 16.6,-5.9 9.5,0 16.55,5.95 l 1.8,1.65 q 6.9,6.85 7.6,16.3 -0.3,2.9 -1.5,5.5 -1.5,3.2 -4.4,5.9 l -1.7,1.45 q -7.6,6.05 -18.35,6.05 -10.8,0 -18.45,-6.05 l -1.6,-1.35 q -2.9,-2.75 -4.4,-5.95 -1.2,-2.6 -1.45,-5.5 M 654.4,340 q -1.5,-1.5 -4.45,-0.65 l -0.25,0.1 q -2.85,0.85 -5.35,3.35 l -0.15,0.15 q -0.65,0.7 -1,1.55 -0.4,0.9 -0.4,2 0,2.15 1.5,3.65 1.5,1.5 3.65,1.5 2.05,0 3.55,-1.4 l 0.15,-0.15 q 2.05,-2.05 3,-4.3 l 0.45,-1.3 q 0.65,-2.25 -0.1,-3.65 L 654.4,340 m -34.1,10.25 q 1.5,1.4 3.55,1.4 2.15,0 3.65,-1.5 1.5,-1.5 1.5,-3.65 0,-1.1 -0.35,-2 l -1.05,-1.55 -0.15,-0.15 q -2.55,-2.55 -5.4,-3.4 l -0.2,-0.05 Q 618.9,338.5 617.4,340 l -0.6,0.85 q -0.75,1.4 -0.1,3.65 0.15,0.65 0.45,1.3 0.95,2.25 3,4.3 l 0.15,0.15"
+         id="path190"
+         inkscape:connector-curvature="0"
+         style="fill:#ffaaff;stroke:none" />
+      <path
+         d="m 620.3,350.25 -0.15,-0.15 q -2.05,-2.05 -3,-4.3 -0.3,-0.65 -0.45,-1.3 -0.65,-2.25 0.1,-3.65 l 0.6,-0.85 q 1.5,-1.5 4.45,-0.65 l 0.2,0.05 q 2.85,0.85 5.4,3.4 l 0.15,0.15 1.05,1.55 q 0.35,0.9 0.35,2 0,2.15 -1.5,3.65 -1.5,1.5 -3.65,1.5 -2.05,0 -3.55,-1.4 m 34.1,-10.25 0.6,0.85 q 0.75,1.4 0.1,3.65 l -0.45,1.3 q -0.95,2.25 -3,4.3 l -0.15,0.15 q -1.5,1.4 -3.55,1.4 -2.15,0 -3.65,-1.5 -1.5,-1.5 -1.5,-3.65 0,-1.1 0.4,-2 0.35,-0.85 1,-1.55 l 0.15,-0.15 q 2.5,-2.5 5.35,-3.35 l 0.25,-0.1 q 2.95,-0.85 4.45,0.65"
+         id="path192"
+         inkscape:connector-curvature="0"
+         style="fill:#af74af;stroke:none" />
+      <path
+         d="m 655.95,359.9 -0.45,1.1 q -1.55,3.25 -4.9,5.9 -6.1,4.85 -14.7,4.85 -8.65,0 -14.8,-4.85 -3.3,-2.6 -4.8,-5.85 l -0.45,-1.05 1.6,1.35 q 7.65,6.05 18.45,6.05 10.75,0 18.35,-6.05 l 1.7,-1.45"
+         id="path194"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.10196078;stroke:none" />
+    </g>
+  </g>
+</svg>
