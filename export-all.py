@@ -8,7 +8,7 @@ import shlex
 lines = []
 for filename in glob.glob('*/*.svg'):
     output = re.sub(r'\.svg$', '.pdf', filename)
-    lines.append([filename, '-A', output])
+    lines.append([filename, '-T', '-A', output])
 
 proc = subprocess.Popen(['inkscape', '--shell'], stdin=subprocess.PIPE)
 stdin_text = '\n'.join(' '.join(shlex.quote(w) for w in s) for s in lines) + '\n'
