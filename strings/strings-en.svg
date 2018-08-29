@@ -268,9 +268,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5387768"
-     inkscape:cx="178.14642"
-     inkscape:cy="52.531648"
+     inkscape:zoom="0.97912666"
+     inkscape:cx="-67.751291"
+     inkscape:cy="550.56201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -705,17 +705,17 @@
          sodipodi:role="line"
          x="123.51142"
          y="585.06561"
-         id="tspan4408">Removes whitespaces* - beginning </tspan><tspan
+         id="tspan4408">Removes whitespace* - beginning </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="123.51142"
          y="599.2406"
-         id="tspan4467">Removes whitespaces* - end</tspan><tspan
+         id="tspan4467">Removes whitespace* - end</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="123.51142"
          y="613.41559"
-         id="tspan2427">Removes whitespaces* - both sides</tspan><tspan
+         id="tspan2427">Removes whitespace* - both sides</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="123.51142"
@@ -1481,7 +1481,7 @@
            height="76.523888"
            x="317.48035"
            y="98.267685" /></flowRegion><flowPara
-         id="flowPara2423"></flowPara></flowRoot>    <text
+         id="flowPara2423" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="297.63782"
@@ -1491,7 +1491,7 @@
          id="tspan2429"
          x="297.63782"
          y="825.59052"
-         style="stroke-width:0.9375"> </tspan></text>
+         style="stroke-width:0.9375" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2433"
@@ -1502,7 +1502,7 @@
            height="41.574806"
            x="362.83463"
            y="495.11807" /></flowRegion><flowPara
-         id="flowPara2439"></flowPara></flowRoot>    <flowRoot
+         id="flowPara2439" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2441"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1512,7 +1512,7 @@
            height="53.33802"
            x="343.42722"
            y="487.13443" /></flowRegion><flowPara
-         id="flowPara2447"></flowPara></flowRoot>    <text
+         id="flowPara2447" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="340.1575"
@@ -1522,7 +1522,7 @@
          id="tspan2457"
          x="340.1575"
          y="797.24408"
-         style="stroke-width:0.9375"> </tspan></text>
+         style="stroke-width:0.9375" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
@@ -1544,7 +1544,7 @@
          id="tspan2465"
          x="301.18109"
          y="848.13934"
-         style="stroke-width:0.9375"></tspan></text>
+         style="stroke-width:0.9375" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"

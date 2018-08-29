@@ -269,7 +269,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97912666"
-     inkscape:cx="95.515551"
+     inkscape:cx="-76.576587"
      inkscape:cy="414.04364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -874,7 +874,7 @@
          sodipodi:role="line"
          x="202.18823"
          y="668.37109"
-         id="tspan5592">True if sets are disjoint? (tj. they don't have any</tspan><tspan
+         id="tspan5592">True if sets are disjoint? (i.e. they don't have any</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
@@ -883,19 +883,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="696.72113"
-         id="tspan1555"> </tspan><tspan
+         y="689.82843"
+         id="tspan1555" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="710.89612"
+         y="696.72113"
          id="tspan5598">Only subset (<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
    id="tspan5620">x!=y</tspan>)</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="725.07111"
+         y="710.89612"
          id="tspan5608">Is <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
    id="tspan5618">x</tspan> superset of <tspan
@@ -904,19 +904,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="739.24609"
+         y="725.07111"
          id="tspan5610"> </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="753.42114"
+         y="739.24609"
          id="tspan5612">Only superset (<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono'"
    id="tspan5614">x!=y</tspan>) </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="767.59613"
+         y="753.42114"
          id="tspan5567">Only commands with <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oxygen Mono';-inkscape-font-specification:'Oxygen Mono';fill:#0000ff"
    id="tspan5743">update</tspan> will change <tspan
@@ -925,7 +925,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25999999;font-family:Oxygen;-inkscape-font-specification:Oxygen"
          sodipodi:role="line"
          x="202.18823"
-         y="781.77112"
+         y="767.59613"
          id="tspan1522">others return result</tspan></text>
     <text
        xml:space="preserve"
@@ -1451,7 +1451,7 @@
            height="183.43401"
            x="2.8887246"
            y="509.88361" /></flowRegion><flowPara
-         id="flowPara1532"></flowPara></flowRoot>    <text
+         id="flowPara1532" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="450.57333"
