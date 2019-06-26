@@ -14,7 +14,7 @@
    viewBox="0 0 524.40944 744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="pyglet-basics-cs.svg">
   <defs
      id="defs4">
@@ -268,18 +268,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3846942"
-     inkscape:cx="71.939844"
-     inkscape:cy="575.54516"
+     inkscape:zoom="1.5150502"
+     inkscape:cx="91.54058"
+     inkscape:cy="406.89921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1848"
-     inkscape:window-height="1056"
-     inkscape:window-x="72"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-midpoints="false"
      inkscape:bbox-paths="true"
@@ -309,7 +309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -932,7 +932,7 @@
          x="17.716549"
          y="853.95111"
          id="tspan5056"
-         style="font-size:11.25px;line-height:1.25999999">sprite.img</tspan><tspan
+         style="font-size:11.25px;line-height:1.25999999">sprite.image</tspan><tspan
          sodipodi:role="line"
          x="17.716549"
          y="868.1261"
