@@ -1,0 +1,2798 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="errors-cs.svg"
+   id="svg5544"
+   height="765"
+   width="990"
+   version="1.2">
+  <sodipodi:namedview
+     inkscape:current-layer="svg5544"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="594.00394"
+     inkscape:cx="488.26368"
+     inkscape:zoom="1.515889"
+     showgrid="false"
+     id="namedview934"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs5546">
+    <rect
+       id="rect940"
+       height="784.82439"
+       width="263.49051"
+       y="12.777977"
+       x="-87.850113" />
+    <rect
+       x="1063.4709"
+       y="213.62829"
+       width="325.63196"
+       height="293.36285"
+       id="rect555" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6125"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         id="path6192"
+         transform="scale(0.2,0.2)"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         id="path6113"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6134"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6128"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         id="path6110"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         id="path6107"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-7"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6125-4"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-5"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6125-6"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartX"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6905"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart0"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6908"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartP"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6911"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartZ"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6914"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstartm"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6917"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstartr"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6920"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartO"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6923"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartB"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6926"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartZ-3"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6914-9"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartB-4"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6926-7"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartB-47"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6926-5"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstartr-4"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6920-8"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstartr-8"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#ffae00;fill-rule:evenodd;stroke:#ffae00;stroke-width:0.625;stroke-linejoin:round"
+         id="path6920-1"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-1"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-0"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-0"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-6"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-2"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7-0"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-2-4"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7-3"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-2-8"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7-01"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-2-6"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-4"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-1"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-9"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-8"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-3"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-80"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-8"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-4"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-36"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path9642-12"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MstartI"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3578"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7U"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3581"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MstartR"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3584"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartq"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3587"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MstartJ"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3590"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstarta"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3593"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartc"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3596"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartq9"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3599"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MstartL"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3602"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart5"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3605"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7I"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3608"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MstartK"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3611"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartt"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3614"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartj"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3617"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstarte"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3620"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-7r"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3623"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstartr"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3626"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstarte-5"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill:#81554f;fill-rule:evenodd;stroke:#81554f;stroke-width:0.625;stroke-linejoin:round"
+         id="path3620-5"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5549">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-938.51749,342.74273)"
+     id="g8444">
+    <g
+       transform="matrix(0.82416022,0,0,1,60.032873,5)"
+       id="g8446" />
+  </g>
+  <flowRoot
+     id="flowRoot5077"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:9px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(0,-287.36218)"><flowRegion
+       id="flowRegion5079"><rect
+         width="2.0203052"
+         height="10.101525"
+         x="646.49762"
+         y="571.05072"
+         id="rect5081" /></flowRegion><flowPara
+       id="flowPara5083" /></flowRoot>
+  <rect
+     width="1022"
+     height="794"
+     x="-12.000001"
+     y="-14.999979"
+     id="rect3469"
+     style="fill:#c2d2ba;fill-opacity:1;stroke:none" />
+  <text
+     id="text452"
+     y="65.226189"
+     x="623.4408"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.9539px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e7775e;fill-opacity:1;stroke:#81554f;stroke-width:1.59885;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="stroke-width:1.59885"
+       id="tspan450"
+       y="65.226189"
+       x="623.4408"
+       sodipodi:role="line"><tspan
+         id="tspan448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.9539px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e7775e;fill-opacity:1;stroke:#81554f;stroke-width:1.59885;stroke-opacity:1"
+         y="65.226189"
+         x="623.4408">Můj kód nefunguje :-(</tspan></tspan></text>
+  <g
+     id="g5247-4-3-8"
+     transform="matrix(0.82416022,0,0,1,-878.48462,347.74273)" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.118;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.236, 2.118;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5201-5"
+     y="116.76538"
+     x="230.34308"
+     ry="12.15733"
+     height="83.391075"
+     width="119.47026" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5201"
+     y="220.58009"
+     x="426.67133"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8432"
+     y="384.56989"
+     x="423.91522"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <a
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+     id="a6625-3"
+     transform="matrix(0.97443954,0,0,0.97443954,204.7961,452.61968)">
+    <rect
+       style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5199-0-8-9-0-9-7"
+       y="36.945732"
+       x="427.61407"
+       ry="15.220723"
+       height="212.5206"
+       width="327.46942" />
+  </a>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot6921"
+     transform="matrix(0.48017261,0,0,0.48017261,635.18856,63.70794)"><flowRegion
+       id="flowRegion6923"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect6925"
+         y="340.93362"
+         x="-420"
+         height="228.54585"
+         width="293.41562" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara6927">Do you get an error when you run the code?</flowPara></flowRoot>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot6921-2"
+     transform="matrix(0.45987261,0,0,0.48017261,427.34539,-44.42932)"><flowRegion
+       id="flowRegion6923-1"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect6925-2"
+         y="340.93362"
+         x="-420"
+         height="166.15746"
+         width="228.35358" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara6927-6">What type of error  do you get?</flowPara></flowRoot>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8434"
+     transform="matrix(0.48017261,0,0,0.48017261,631.05435,226.31969)"><flowRegion
+       id="flowRegion8436"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect8438"
+         y="340.93362"
+         x="-420"
+         height="228.54585"
+         width="293.41562" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara8440">Does the code use loops or if statements?</flowPara></flowRoot>
+  <text
+     id="text644"
+     y="512.32526"
+     x="554.44086"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan620"
+       y="512.32526"
+       x="629.9563"
+       sodipodi:role="line"><tspan
+         id="tspan618"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="512.32526"
+         x="629.9563">Seznam, který by měl mít </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan624"
+       y="526.94183"
+       x="627.72101"
+       sodipodi:role="line"><tspan
+         id="tspan622"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="526.94183"
+         x="627.72101">hodnotu za každou iteraci, </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan630"
+       y="541.55847"
+       x="633.01099"
+       sodipodi:role="line"><tspan
+         id="tspan626"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="541.55847"
+         x="633.01099">má pouze jednu hodnotu</tspan><tspan
+         id="tspan628"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="541.55847"
+         x="769.90454"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan634"
+       y="556.17505"
+       x="630.4588"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan632"
+         y="556.17505"
+         x="630.4588">Nadefinoval(a) jsi seznam </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan638"
+       y="570.79163"
+       x="626.37354"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan636"
+         y="570.79163"
+         x="626.37354">uvnitř cyklu, přesuň ho vně </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan642"
+       y="585.4082"
+       x="686.23596"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan640"
+         y="585.4082"
+         x="686.23596">cyklu</tspan></tspan></text>
+  <text
+     id="text680"
+     y="606.77661"
+     x="552.66345"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan648"
+       y="606.77661"
+       x="638.60126"
+       sodipodi:role="line"><tspan
+         id="tspan646"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="606.77661"
+         x="638.60126">Cyklu, který využívá </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan656"
+       y="621.54724"
+       x="713.04022"
+       sodipodi:role="line"><tspan
+         id="tspan650"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="621.54724"
+         x="644.51929">funkci </tspan><tspan
+         id="tspan652"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="621.54724"
+         x="683.80713">range</tspan><tspan
+         id="tspan654"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="621.54724"
+         x="713.04022">, chybí </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan662"
+       y="636.16382"
+       x="649.36096"
+       sodipodi:role="line"><tspan
+         id="tspan658"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="636.16382"
+         x="649.36096">poslední hodnota</tspan><tspan
+         id="tspan660"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="636.16382"
+         x="745.64209"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan670"
+       y="650.93445"
+       x="726.28375"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan664"
+         y="650.93445"
+         x="639.48627">Interval funkce </tspan><tspan
+         id="tspan666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="650.93445"
+         x="726.28375">range</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan668"
+         y="650.93445"
+         x="755.51685"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan674"
+       y="665.55103"
+       x="633.74805"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan672"
+         y="665.55103"
+         x="633.74805">je otevřený, zkus zvýšit </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan678"
+       y="680.1676"
+       x="645.63831"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan676"
+         y="680.1676"
+         x="645.63831">druhý parametr o 1</tspan></tspan></text>
+  <text
+     id="text704"
+     y="512.7674"
+     x="708.59674"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan684"
+       y="512.7674"
+       x="783.90948"
+       sodipodi:role="line"><tspan
+         id="tspan682"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="512.7674"
+         x="783.90948">Snažím se iterovat kolekcí </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan688"
+       y="527.38397"
+       x="794.98328"
+       sodipodi:role="line"><tspan
+         id="tspan686"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="527.38397"
+         x="794.98328">řetězců, ale místo toho </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan694"
+       y="542.00061"
+       x="782.01959"
+       sodipodi:role="line"><tspan
+         id="tspan690"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="542.00061"
+         x="782.01959">dostávám jednotlivé znaky</tspan><tspan
+         id="tspan692"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="542.00061"
+         x="933.19293"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan698"
+       y="556.61719"
+       x="798.76019"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan696"
+         y="556.61719"
+         x="798.76019">Omylem iteruješ přes </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan702"
+       y="571.23376"
+       x="837.61121"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan700"
+         y="571.23376"
+         x="837.61121">řetězec</tspan></tspan></text>
+  <text
+     id="text732"
+     y="610.61005"
+     x="705.11426"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan708"
+       y="610.61005"
+       x="784.4751"
+       sodipodi:role="line"><tspan
+         id="tspan706"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="610.61005"
+         x="784.4751">Snažím se zapsat několik </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan712"
+       y="625.22662"
+       x="776.98694"
+       sodipodi:role="line"><tspan
+         id="tspan710"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="625.22662"
+         x="776.98694">řádků do souboru, ale objeví </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan718"
+       y="639.84326"
+       x="778.60846"
+       sodipodi:role="line"><tspan
+         id="tspan714"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="639.84326"
+         x="778.60846">se v něm pouze jeden řádek</tspan><tspan
+         id="tspan716"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="639.84326"
+         x="931.97998"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan722"
+       y="654.45984"
+       x="776.23041"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan720"
+         y="654.45984"
+         x="776.23041">Otevíráš soubor uvnitř cyklu, </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan726"
+       y="669.07642"
+       x="787.25281"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan724"
+         y="669.07642"
+         x="787.25281">přesuň jeho otevření vně </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan730"
+       y="683.69299"
+       x="840.07245"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan728"
+         y="683.69299"
+         x="840.07245">cyklu</tspan></tspan></text>
+  <g
+     id="g8916"
+     transform="matrix(0.82416022,0,0,1,-850.20035,142.68176)" />
+  <a
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+     id="a8926-3"
+     transform="matrix(0.97443954,0,0,0.81147505,208.91002,131.38559)">
+    <rect
+       style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8928-1"
+       y="36.945732"
+       x="427.61407"
+       ry="15.220723"
+       height="295.95923"
+       width="337.36896" />
+  </a>
+  <text
+     id="text860"
+     y="309.17947"
+     x="724.97961"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan838"
+       y="309.17947"
+       x="799.87836"
+       sodipodi:role="line"><tspan
+         id="tspan836"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="309.17947"
+         x="799.87836">Regulární výraz nefunguje </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan844"
+       y="323.79605"
+       x="823.43335"
+       sodipodi:role="line"><tspan
+         id="tspan840"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="323.79605"
+         x="823.43335">tak, jak očekávám</tspan><tspan
+         id="tspan842"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="323.79605"
+         x="925.18427"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan848"
+       y="338.41266"
+       x="802.63611"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan846"
+         y="338.41266"
+         x="802.63611">Zapomněl(a) jsi escapovat </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan854"
+       y="353.02924"
+       x="833.01978"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan850"
+         y="353.02924"
+         x="833.01978">zpětné lomítko</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan852"
+         y="353.02924"
+         x="915.59784"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan858"
+       y="367.64584"
+       x="800.34943"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan856"
+         y="367.64584"
+         x="800.34943">(zkus https://regex101.com)</tspan></tspan></text>
+  <text
+     id="text834"
+     y="187.60893"
+     x="749.91614"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan806"
+       y="187.60893"
+       x="811.04901"
+       sodipodi:role="line"><tspan
+         id="tspan804"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="187.60893"
+         x="811.04901">Snažím se vytisknout </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan810"
+       y="202.22554"
+       x="828.60889"
+       sodipodi:role="line"><tspan
+         id="tspan808"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="202.22554"
+         x="828.60889">proměnnou, ale </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan816"
+       y="216.84213"
+       x="814.39484"
+       sodipodi:role="line"><tspan
+         id="tspan812"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="216.84213"
+         x="814.39484">dostávám divný text</tspan><tspan
+         id="tspan814"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="216.84213"
+         x="929.31213"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan820"
+       y="231.45871"
+       x="817.06689"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan818"
+         y="231.45871"
+         x="817.06689">Tiskneš objekt nebo </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan824"
+       y="246.0753"
+       x="820.01306"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan822"
+         y="246.0753"
+         x="820.01306">metodu, měl(a) bys </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan828"
+       y="260.69189"
+       x="816.26758"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan826"
+         y="260.69189"
+         x="816.26758">vytisknout výsledek </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan832"
+       y="275.3085"
+       x="811.09753"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan830"
+         y="275.3085"
+         x="811.09753">zavolání dané metody</tspan></tspan></text>
+  <flowRoot
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.3985px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8986-0"
+     transform="matrix(0.27579463,0,0,0.27579463,767.03105,175.15947)"><flowRegion
+       id="flowRegion8988-3"><rect
+         style="font-size:42.39848328px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#81554f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Light"
+         id="rect8990-8"
+         y="340.93362"
+         x="-420"
+         height="561.22821"
+         width="519.14502" /></flowRegion><flowPara
+       id="flowPara8994-7" /></flowRoot>
+  <text
+     id="text802"
+     y="309.17947"
+     x="537.59235"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan774"
+       y="309.17947"
+       x="638.78522"
+       sodipodi:role="line"><tspan
+         id="tspan770"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="309.17947"
+         x="638.78522">Snažím se číst ze souboru,</tspan><tspan
+         id="tspan772"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="309.17947"
+         x="785.37939"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan780"
+       y="323.79605"
+       x="661.13831"
+       sodipodi:role="line"><tspan
+         id="tspan776"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="323.79605"
+         x="661.13831">ale nic v něm není</tspan><tspan
+         id="tspan778"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="323.79605"
+         x="763.02631"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan784"
+       y="338.41266"
+       x="656.76764"
+       sodipodi:role="line"><tspan
+         id="tspan782"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="338.41266"
+         x="656.76764">Už jsi soubor jednou </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan788"
+       y="353.02924"
+       x="636.42712"
+       sodipodi:role="line"><tspan
+         id="tspan786"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="353.02924"
+         x="636.42712">přečetl(a) dříve v programu, </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan792"
+       y="367.64584"
+       x="645.43689"
+       sodipodi:role="line"><tspan
+         id="tspan790"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="367.64584"
+         x="645.43689">takže je soubor na konci </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan800"
+       y="382.41644"
+       x="761.09924"
+       sodipodi:role="line"><tspan
+         id="tspan794"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="382.41644"
+         x="659.474">(použij funkci </tspan><tspan
+         id="tspan796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="382.41644"
+         x="737.71277">seek</tspan><tspan
+         id="tspan798"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795;"
+         y="382.41644"
+         x="761.09924">)</tspan></tspan></text>
+  <text
+     id="text768"
+     y="186.65118"
+     x="552.24835"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan740"
+       y="186.65118"
+       x="787.61688"
+       sodipodi:role="line"><tspan
+         id="tspan734"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="186.65118"
+         x="653.69812">Proměnná se rovná </tspan><tspan
+         id="tspan736"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="186.65118"
+         x="764.23047">None</tspan><tspan
+         id="tspan738"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="186.65118"
+         x="787.61688">, </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan746"
+       y="201.26778"
+       x="654.4032"
+       sodipodi:role="line"><tspan
+         id="tspan742"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="201.26778"
+         x="654.4032">i když do ní něco uložím</tspan><tspan
+         id="tspan744"
+         style="font-weight:bold;fill:#81554f;fill-opacity:1;stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="201.26778"
+         x="789.78375"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan750"
+       y="215.88437"
+       x="661.81714"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan748"
+         y="215.88437"
+         x="661.81714">Ukládáš do proměnné </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan754"
+       y="230.50095"
+       x="666.35059"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan752"
+         y="230.50095"
+         x="666.35059">návratovou hodnotu </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan758"
+       y="245.11754"
+       x="653.88934"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan756"
+         y="245.11754"
+         x="653.88934">funkce, která nic nevrací </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan766"
+       y="259.88815"
+       x="749.05133"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan760"
+         y="259.88815"
+         x="691.54425">(např. </tspan><tspan
+         id="tspan762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="259.88815"
+         x="725.66492">sort</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan764"
+         y="259.88815"
+         x="749.05133">)</tspan></tspan></text>
+  <text
+     id="text551"
+     y="308.71539"
+     x="984.9704"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="308.71539"
+       x="984.9704"
+       id="tspan549"
+       sodipodi:role="line" /></text>
+  <text
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect555);fill:#000000;fill-opacity:1;stroke:none;"
+     id="text553"
+     xml:space="preserve" />
+  <g
+     id="g8667"
+     transform="matrix(0.82416022,0,0,1,-878.48462,347.74273)" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.118;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.236, 2.118;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8671"
+     y="116.76538"
+     x="230.34308"
+     ry="12.15733"
+     height="83.391075"
+     width="119.47026" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8673"
+     y="220.58009"
+     x="426.67133"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <rect
+     style="fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8675"
+     y="384.56989"
+     x="423.91522"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <a
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+     id="a8677-9"
+     transform="translate(190.71132,453.50255)" />
+  <a
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+     id="a6625-3-8"
+     transform="matrix(0.97443954,0,0,0.97443954,-11.580474,536.02976)">
+    <rect
+       style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5199-0-8-9-0-9-7-2"
+       y="19.97517"
+       x="431.85672"
+       ry="15.220723"
+       height="191.30739"
+       width="204.43283" />
+  </a>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8683"
+     transform="matrix(0.48017261,0,0,0.48017261,635.18856,63.70794)"><flowRegion
+       id="flowRegion8685"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect8687"
+         y="340.93362"
+         x="-420"
+         height="228.54585"
+         width="293.41562" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara8689">Do you get an error when you run the code?</flowPara></flowRoot>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8691"
+     transform="matrix(0.45987261,0,0,0.48017261,427.34539,-44.42932)"><flowRegion
+       id="flowRegion8693"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect8695"
+         y="340.93362"
+         x="-420"
+         height="166.15746"
+         width="228.35358" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara8697">What type of error  do you get?</flowPara></flowRoot>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8699"
+     transform="matrix(0.48017261,0,0,0.48017261,631.05435,226.31969)"><flowRegion
+       id="flowRegion8701"><rect
+         style="text-align:center;text-anchor:middle;fill:#81554f;fill-opacity:1"
+         id="rect8703"
+         y="340.93362"
+         x="-420"
+         height="228.54585"
+         width="293.41562" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#81554f;fill-opacity:1"
+       id="flowPara8705">Does the code use loops or if statements?</flowPara></flowRoot>
+  <text
+     id="text572"
+     y="578.81738"
+     x="192.63669"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795"
+     xml:space="preserve"><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan546"
+       y="578.81738"
+       x="429.10052"
+       sodipodi:role="line"><tspan
+         id="tspan544"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="578.81738"
+         x="429.10052">Dvě čísla by se měla rovnat, </tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan552"
+       y="593.43396"
+       x="457.93689"
+       sodipodi:role="line"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan548"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="593.43396"
+         x="457.93689">ale není tomu tak</tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan556"
+       y="608.05054"
+       x="427.78162"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan554"
+         y="608.05054"
+         x="427.78162">Porovnáváš číslo s řetězcem, </tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan562"
+       y="622.66711"
+       x="441.84155"
+       sodipodi:role="line"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan558"
+         y="622.66711"
+         x="441.84155">který obsahuje číslo</tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan570"
+       y="637.43774"
+       x="455.59326"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan564"
+         y="637.43774"
+         x="455.59326">(např. if 3 == &quot;3&quot;)</tspan></tspan></text>
+  <text
+     id="text616"
+     y="658.49121"
+     x="346.95346"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795"
+     xml:space="preserve"><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan596"
+       y="658.49121"
+       x="426.97943"
+       sodipodi:role="line"><tspan
+         id="tspan592"
+         style="font-weight:bold;text-align:start;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="658.49121"
+         x="426.97943">Složitá podmínka nevrací to,</tspan><tspan
+         id="tspan594"
+         style="font-weight:bold;text-align:start;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="658.49121"
+         x="586.23181"
+         dx="0" /></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan602"
+       y="673.10785"
+       x="472.64774"
+       sodipodi:role="line"><tspan
+         id="tspan598"
+         style="font-weight:bold;text-align:start;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="673.10785"
+         x="472.64774">co očekáváš</tspan><tspan
+         id="tspan600"
+         style="font-weight:bold;text-align:start;text-anchor:start;fill:#81554f;fill-opacity:1;stroke-width:0.275795"
+         y="673.10785"
+         x="540.5636"
+         dx="0" /></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan606"
+       y="687.72443"
+       x="426.97656"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan604"
+         y="687.72443"
+         x="426.97656">Pořadí operátorů v podmínce </tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan610"
+       y="702.341"
+       x="427.75879"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan608"
+         y="702.341"
+         x="427.75879">může být špatně, zkus přidat </tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan614"
+       y="716.95758"
+       x="484.67215"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan612"
+         y="716.95758"
+         x="484.67215">závorky</tspan></tspan></text>
+  <path
+     d="m 171.03471,232.56078 c 24.28377,0 24.63178,0.34101 24.63178,-24.63179 v -7.33367"
+     id="path8978-0-8"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2MstartJ);marker-end:none" />
+  <path
+     d="m 170.82058,392.28483 c 24.28377,0 24.63179,0.34101 24.63179,-24.63179 V 196.8972"
+     id="path8978-0-8-6"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstartj);marker-end:none" />
+  <path
+     d="m 170.82058,633.94584 c 24.28377,0 24.63179,0.34101 24.63179,-24.63179 V 325.31371"
+     id="path6874"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstartq);marker-end:none" />
+  <path
+     d="m 220.19507,310.51595 c -24.28378,0 -24.63179,0.341 -24.63179,-24.6318 v -98.03594"
+     id="path6876"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2MstartR);marker-end:none" />
+  <path
+     d="m 220.19507,485.91506 c -24.28378,0 -24.63179,0.34101 -24.63179,-24.63179 v -174.8631"
+     id="path6878"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2MstartI);marker-end:none" />
+  <path
+     d="m 220.19507,591.15453 c -24.28378,0 -24.63179,0.34101 -24.63179,-24.63179 v -174.8631"
+     id="path6880"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstartt);marker-end:none" />
+  <path
+     d="m 220.19507,686.64961 c -24.28378,0 -24.63179,0.34101 -24.63179,-24.6318 V 487.15472"
+     id="path6882"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2MstartK);marker-end:none" />
+  <path
+     d="m 220.27645,153.13515 c -24.28377,0 -24.63178,-0.34101 -24.63178,24.6318 v 96.90793"
+     id="path8978-0-8-5"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 220.27645,152.9288 c -24.28377,0 -24.63178,0.341 -24.63178,-24.6318 V 96.158157"
+     id="path8384"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 171.03471,64.44746 c 24.28377,0 24.63178,-0.341005 24.63178,24.631795 v 7.333671"
+     id="path8399"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstartr);marker-end:none" />
+  <path
+     d="m 361.28732,154.81936 h 70.75163 m -1.91043,0.066 c 24.28377,0 24.63178,-0.34101 24.63178,24.6318 v 28.52142"
+     id="path6876-2"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:5.84664, 5.84664;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstarta);marker-end:none" />
+  <path
+     d="m 568.76458,369.95066 c 0,-24.28378 0.34101,-24.63178 -24.63179,-24.63178 H 481.6765"
+     id="path8978-0-8-2"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:5.84664, 5.84664;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstarte);marker-end:none" />
+  <path
+     d="m 434.21633,320.70891 c 0,24.28378 -0.341,24.63179 24.6318,24.63179 h 43.16337"
+     id="path8978-0-8-5-9"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:5.84664, 5.84664;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 566.95211,483.54582 c 0,34.51538 0.34101,34.37617 -24.63178,34.37617 h -43.16338"
+     id="path13279"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 432.40386,553.25079 c 0,-35.00261 -0.341,-35.35063 24.6318,-35.35063 h 62.45629"
+     id="path8978-0-8-5-9-3"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-7I);marker-end:none" />
+  <path
+     d="m 698.81943,485.40275 c 0,-20.87323 0.34101,-23.65734 -24.63179,-23.65734 H 590.7809"
+     id="path8978-0-8-5-9-3-4"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;marker-start:url(#Arrow2Mstart-7r);marker-end:none" />
+  <path
+     d="m 835.46585,404.39789 c 0,32.07928 0.341,31.94008 -24.6318,31.94008 H 589.05689"
+     id="path8978-0-8-5-9-3-4-2"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;marker-start:url(#Arrow2Mstart-7U);marker-end:none" />
+  <path
+     d="m 699.24422,724.38799 h -20.62448 m 4.32206,-0.066 c -17.56572,0 -24.63179,-4.11405 -24.63179,-13.58366 v -13.0486"
+     id="path6876-2-8"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="M 716.86965,724.52809 H 609.59928"
+     id="path6876-2-8-4"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2MstartL);marker-end:none" />
+  <path
+     d="m 956.67693,454.51045 v 244.9327 m -0.066,-1.91044 c 0,24.28377 -5.50563,24.63179 -30.47843,24.63179 H 820.63037"
+     id="path6876-2-7"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 857.74673,406.22281 c 0,24.28378 -0.34101,24.63179 24.63179,24.63179 h 54.66078"
+     id="path8978-0-8-2-5"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstartq9);marker-end:none" />
+  <path
+     d="m 956.72794,455.95178 c 0,-24.28378 -5.50559,-25.119 -30.47844,-25.119 h -1.26247"
+     id="path8978-0-8-5-9-35"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <path
+     d="m 504.17041,203.24429 c 0,-40.11841 0.38983,-40.22282 24.14458,-40.22282 h 4.47714"
+     id="path8978-0-8-2-0"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:3.89776, 7.79552;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstarte);marker-end:none" />
+  <path
+     d="m 580.2523,126.71824 c 0,36.22066 0.34101,36.32506 -24.63179,36.32506 h -25.37985"
+     id="path8978-0-8-5-9-7"
+     style="display:inline;fill:none;stroke:#81554f;stroke-width:1.94888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:48.2308;stroke-dasharray:3.89776, 7.79552;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+  <rect
+     style="fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8450"
+     y="209.71996"
+     x="417.18924"
+     ry="14.76499"
+     height="108.07972"
+     width="175.01436" />
+  <rect
+     style="fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.29772;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8452"
+     y="107.18128"
+     x="221.10645"
+     ry="19.371891"
+     height="99.904488"
+     width="137.54997" />
+  <rect
+     style="fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8454"
+     y="373.70975"
+     x="414.43314"
+     ry="14.76499"
+     height="108.07972"
+     width="175.01436" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.20428;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8454-8"
+     y="91.211845"
+     x="470.56488"
+     ry="9.3095388"
+     height="35.072239"
+     width="133.70236" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.79469;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.79469, 2.79469;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8454-88"
+     y="445.12161"
+     x="611.4574"
+     ry="14.116917"
+     height="34.637836"
+     width="64.041924" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.79469;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.79469, 2.79469;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8454-88-5"
+     y="418.56808"
+     x="707.44702"
+     ry="14.116917"
+     height="35.612274"
+     width="77.684082" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:4.27985;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.27985, 4.27985;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4620"
+     y="502.16568"
+     x="463.95944"
+     ry="13.66211"
+     height="31.635784"
+     width="86.714043" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.79469;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.79469, 2.79469;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4626"
+     y="328.18884"
+     x="476.98474"
+     ry="14.116917"
+     height="35.612274"
+     width="44.553131" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:2.79469;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.79469, 2.79469;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4632"
+     y="137.1987"
+     x="389.28519"
+     ry="14.116917"
+     height="34.637836"
+     width="50.399769" />
+  <rect
+     style="display:inline;fill:#81554f;fill-opacity:1;stroke:#e7775e;stroke-width:3.1562;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.1562, 3.1562;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8454-88-5-5-6"
+     y="704.74542"
+     x="720.78436"
+     ry="16.65238"
+     height="33.30476"
+     width="130.298" />
+  <rect
+     style="fill:none;stroke:#f6ab72;stroke-width:2.118;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.236, 2.118;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8458"
+     y="116.76538"
+     x="230.34308"
+     ry="12.15733"
+     height="83.391075"
+     width="119.47026" />
+  <rect
+     style="fill:none;stroke:#f6ab72;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8460"
+     y="220.58009"
+     x="426.67133"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <rect
+     style="fill:none;stroke:#f6ab72;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8462"
+     y="384.56989"
+     x="423.91522"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <rect
+     style="display:inline;fill:none;stroke:#f6ab72;stroke-width:2.118;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.236, 2.118;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8920"
+     y="116.76538"
+     x="230.34308"
+     ry="12.15733"
+     height="83.391075"
+     width="119.47026" />
+  <rect
+     style="display:inline;fill:none;stroke:#f6ab72;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8922"
+     y="220.58009"
+     x="426.67133"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <rect
+     style="display:inline;fill:none;stroke:#f6ab72;stroke-width:1.94888;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:3.89776, 1.94888;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8924"
+     y="384.56989"
+     x="423.91522"
+     ry="12.167583"
+     height="88.721848"
+     width="155.65646" />
+  <text
+     transform="scale(0.9786335,1.021833)"
+     id="text446"
+     y="148.15929"
+     x="296.32593"
+     style="font-style:normal;font-weight:normal;font-size:18.7965px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f9e0b6;fill-opacity:1;stroke:none;stroke-width:0.469913;"
+     xml:space="preserve"><tspan
+       style="text-align:center;text-anchor:middle;stroke-width:0.469913;"
+       id="tspan440"
+       y="148.15929"
+       x="297.44104"
+       sodipodi:role="line"><tspan
+         id="tspan438"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#f9e0b6;fill-opacity:1;stroke-width:0.469913;"
+         y="148.15929"
+         x="297.44104">Jaký typ </tspan></tspan><tspan
+       style="text-align:center;text-anchor:middle;stroke-width:0.469913;"
+       id="tspan444"
+       y="172.3082"
+       x="304.5448"
+       sodipodi:role="line"><tspan
+         id="tspan442"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#f9e0b6;fill-opacity:1;stroke-width:0.469913;"
+         y="172.3082"
+         x="304.5448">chyby?</tspan></tspan></text>
+  <text
+     id="text486"
+     y="409.51837"
+     x="502.69537"
+     style="font-style:normal;font-weight:normal;font-size:19.2069px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f9e0b6;fill-opacity:1;stroke:none;stroke-width:0.480173"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.480173"
+       id="tspan476"
+       y="409.51837"
+       x="502.69537"
+       sodipodi:role="line"><tspan
+         id="tspan474"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="409.51837"
+         x="502.69537">Máš v kódu </tspan></tspan><tspan
+       style="stroke-width:0.480173"
+       id="tspan480"
+       y="434.19452"
+       x="505.6402"
+       sodipodi:role="line"><tspan
+         id="tspan478"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="434.19452"
+         x="505.6402">cykly nebo </tspan></tspan><tspan
+       style="stroke-width:0.480173"
+       id="tspan484"
+       y="458.8707"
+       x="504.52884"
+       sodipodi:role="line"><tspan
+         id="tspan482"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="458.8707"
+         x="504.52884">podmínky?</tspan></tspan></text>
+  <text
+     id="text472"
+     y="247.42201"
+     x="516.22156"
+     style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none;stroke-width:0.480173"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.480173"
+       id="tspan462"
+       y="247.42201"
+       x="516.22156"
+       sodipodi:role="line"><tspan
+         id="tspan460"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="247.42201"
+         x="516.22156">Když spustíš </tspan></tspan><tspan
+       style="stroke-width:0.480173"
+       id="tspan466"
+       y="269.69107"
+       x="510.76257"
+       sodipodi:role="line"><tspan
+         id="tspan464"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="269.69107"
+         x="510.76257">program, vrátí </tspan></tspan><tspan
+       style="stroke-width:0.480173"
+       id="tspan470"
+       y="291.96011"
+       x="504.39798"
+       sodipodi:role="line"><tspan
+         id="tspan468"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke-width:0.480173"
+         y="291.96011"
+         x="504.39798">nějakou chybu?</tspan></tspan></text>
+  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot8940"
+     transform="matrix(0.45987261,0,0,0.48017261,427.34539,-44.42932)"><flowRegion
+       id="flowRegion8942"><rect
+         style="text-align:center;text-anchor:middle;fill:#f9e0b6;fill-opacity:1"
+         id="rect8944"
+         y="340.93362"
+         x="-420"
+         height="166.15746"
+         width="228.35358" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1"
+       id="flowPara8946" /></flowRoot>
+  <text
+     id="text458"
+     y="115.24051"
+     x="537.53418"
+     style="font-style:normal;font-weight:normal;font-size:17.2797px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:0.431994;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.431994"
+       id="tspan456"
+       y="115.24051"
+       x="537.53418"
+       sodipodi:role="line"><tspan
+         id="tspan454"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:0.431994;stroke-opacity:1"
+         y="115.24051"
+         x="537.53418">Začni zde...</tspan></tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.4137px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text9774-2-2-7"
+     y="467.3118"
+     x="622.14276"><tspan
+       y="0"
+       x="0"
+       id="tspan437"
+       sodipodi:role="line"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+         id="tspan9776-8-8-1"
+         y="467.3118"
+         x="622.14276" /></tspan><tspan
+       y="467.3118"
+       x="622.14276"
+       id="tspan439"
+       sodipodi:role="line"><tspan
+         id="tspan441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+         y="467.3118"
+         x="622.14276">cykly</tspan></tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.332px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none;stroke-width:0.873177"
+     xml:space="preserve"
+     id="text9774-2-2-7-5"
+     y="440.30469"
+     x="715.01831"><tspan
+       id="tspan9776-8-8-1-5"
+       y="440.30469"
+       x="715.01831"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';stroke-width:0.873177">ani jedno</tspan></text>
+  <text
+     style="font-style:normal;font-weight:normal;font-size:14.8019px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none;stroke-width:0.901804"
+     xml:space="preserve"
+     id="text4622"
+     y="522.36462"
+     x="470.58453"><tspan
+       id="tspan4624"
+       y="522.36462"
+       x="470.58453"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Robo;-inkscape-font-specification:Robo;stroke-width:0.901804">podmínky</tspan></text>
+  <text
+     style="font-style:normal;font-weight:normal;font-size:16.4137px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text4628"
+     y="350.32816"
+     x="489.66962"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+       id="tspan4630"
+       y="350.32816"
+       x="489.66962">ne</tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.4137px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text4634"
+     y="158.84955"
+     x="400.10651"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+       id="tspan4636"
+       y="158.84955"
+       x="400.10651">ano</tspan></text>
+  <text
+     style="font-style:normal;font-weight:normal;font-size:12.0722px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9e0b6;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text9774-2-2-7-5-7-9"
+     y="724.70679"
+     x="739.56299"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+       id="tspan9776-8-8-1-5-1-7"
+       y="724.70679"
+       x="739.56299">dále zkontroluj...</tspan></text>
+  <rect
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5199-0-8"
+     y="136.46852"
+     x="17.808727"
+     ry="14.831675"
+     height="193.47015"
+     width="150.23715" />
+  <rect
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5199-0-8-9"
+     y="343.58286"
+     x="15.510128"
+     ry="14.831675"
+     height="248.03874"
+     width="155.10936" />
+  <rect
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5199-0-8-9-0"
+     y="604.19946"
+     x="15.372641"
+     ry="14.831675"
+     height="144.74815"
+     width="155.10934" />
+  <rect
+     width="155.10934"
+     height="287.01633"
+     ry="14.831675"
+     x="220.97939"
+     y="238.78467"
+     id="rect5199-0-8-9-0-9"
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5199-0-8-9-0-6"
+     y="13.689137"
+     x="15.372654"
+     ry="14.831675"
+     height="113.56608"
+     width="155.10934" />
+  <rect
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5199-0-8-9-0-6-3"
+     y="547.68201"
+     x="220.9794"
+     ry="14.831675"
+     height="77.511826"
+     width="155.10934" />
+  <rect
+     width="155.10934"
+     height="77.511818"
+     ry="14.831675"
+     x="221.4666"
+     y="636.8432"
+     id="rect5199-0-8-9-0-6-3-0"
+     style="display:inline;fill:#f9e0b6;fill-opacity:1;stroke:#81554f;stroke-width:2.92332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.92332, 2.92332;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text954"
+     y="632.65613"
+     x="-33.893333"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan948"
+       y="632.65613"
+       x="29.014977"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan944"
+         y="632.65613"
+         x="29.014977">Indentation</tspan><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan946"
+         y="632.65613"
+         x="156.69148"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan952"
+       y="655.60114"
+       x="65.045845"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan950"
+         y="655.60114"
+         x="65.045845">Error</tspan></tspan></text>
+  <text
+     id="text960"
+     y="161.00317"
+     x="-38.328579"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan958"
+       y="161.00317"
+       x="26.517939"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan956"
+         y="161.00317"
+         x="26.517937">SyntaxError</tspan></tspan></text>
+  <text
+     id="text966"
+     y="370.03534"
+     x="-15.180373"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan964"
+       y="370.03534"
+       x="38.821041"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan962"
+         y="370.03534"
+         x="38.821041">TypeError</tspan></tspan></text>
+  <text
+     id="text876"
+     y="267.24127"
+     x="179.09662"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan874"
+       y="267.24127"
+       x="238.39174"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan872"
+         y="267.24127"
+         x="238.39174">NameError</tspan></tspan></text>
+  <text
+     id="text978"
+     y="42.145741"
+     x="-2.5231814"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan972"
+       y="42.145741"
+       x="44.840107"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan968"
+         y="42.145741"
+         x="44.840107">Attribute</tspan><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan970"
+         y="42.145741"
+         x="140.86638"
+         dx="0" /></tspan><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan976"
+       y="65.090759"
+       x="65.045853"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan974"
+         y="65.090759"
+         x="65.045853">Error</tspan></tspan></text>
+  <text
+     id="text1136"
+     y="576.13861"
+     x="220.09068"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan1134"
+       y="576.13861"
+       x="258.81036"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan1132"
+         y="576.13861"
+         x="258.81036">IOError</tspan></tspan></text>
+  <text
+     id="text1142"
+     y="665.2998"
+     x="202.50087"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.945px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#e7775e;fill-opacity:1;stroke:none;stroke-width:0.887742;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+       id="tspan1140"
+       y="665.2998"
+       x="250.3683"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.887742;text-anchor:start;text-align:start;"
+         id="tspan1138"
+         y="665.2998"
+         x="250.3683">KeyError</tspan></tspan></text>
+  <text
+     id="text988"
+     y="184.95131"
+     x="-9.0364361"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan982"
+       y="184.95131"
+       x="54.680061"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan980"
+         y="184.95131"
+         x="54.680061">Zapomněl(a) jsi </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan986"
+       y="199.5679"
+       x="32.912182"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan984"
+         y="199.5679"
+         x="32.912182">uvozovky okolo řetězce</tspan></tspan></text>
+  <text
+     id="text1016"
+     y="222.31105"
+     x="-33.344181"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan992"
+       y="222.31105"
+       x="39.860245"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan990"
+         y="222.31105"
+         x="39.860245">Zapomněl(a) jsi dát </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1000"
+       y="237.08168"
+       x="97.124748"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan994"
+         y="237.08168"
+         x="30.847633">dvojtečku (</tspan><tspan
+         id="tspan996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="237.08168"
+         x="91.278137">:</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan998"
+         y="237.08168"
+         x="97.124748">) na konec </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1014"
+       y="251.85228"
+       x="124.70215"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1002"
+         y="251.85228"
+         x="42.729408">řádku s </tspan><tspan
+         id="tspan1004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="251.85228"
+         x="86.356529">def</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1006"
+         y="251.85228"
+         x="103.89639">/</tspan><tspan
+         id="tspan1008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="251.85228"
+         x="108.45264">if</tspan><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1010"
+         y="251.85228"
+         x="120.14588">/</tspan><tspan
+         id="tspan1012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="251.85228"
+         x="124.70215">for</tspan></tspan></text>
+  <text
+     id="text1030"
+     y="274.61392"
+     x="-34.847519"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1020"
+       y="274.61392"
+       x="30.444818"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1018"
+         y="274.61392"
+         x="30.44482">Máš v nějakém výrazu </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1024"
+       y="289.2305"
+       x="27.42445"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1022"
+         y="289.2305"
+         x="27.424446">různý počet otevíracích </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1028"
+       y="303.84711"
+       x="35.654839"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1026"
+         y="303.84711"
+         x="35.654839">a zavíracích závorek</tspan></tspan></text>
+  <text
+     id="text1048"
+     y="537.93854"
+     x="-25.09304"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1034"
+       y="537.93854"
+       x="33.870171"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1032"
+         y="537.93854"
+         x="33.870171">Zavolal(a) jsi metodu/</tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1038"
+       y="552.55518"
+       x="42.220474"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1036"
+         y="552.55518"
+         x="42.220474">funkci se špatným </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1042"
+       y="567.17175"
+       x="38.811832"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1040"
+         y="567.17175"
+         x="38.811832">počtem nebo typem </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1046"
+       y="581.78833"
+       x="62.837872"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1044"
+         y="581.78833"
+         x="62.837872">argumentů</tspan></tspan></text>
+  <text
+     id="text1062"
+     y="389.37753"
+     x="-12.22974"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1052"
+       y="389.37753"
+       x="48.880314"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1050"
+         y="389.37753"
+         x="48.880314">Snažíš se použít </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1056"
+       y="403.99414"
+       x="55.257946"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1054"
+         y="403.99414"
+         x="55.257946">operátor mezi </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1060"
+       y="418.61072"
+       x="31.728647"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1058"
+         y="418.61072"
+         x="31.728645">špatnými typy objektů</tspan></tspan></text>
+  <text
+     id="text1078"
+     y="437.77502"
+     x="-38.01088"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1066"
+       y="437.77502"
+       x="42.92955"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1064"
+         y="437.77502"
+         x="42.92955">Proměnná, u které </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1070"
+       y="452.39163"
+       x="48.667706"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1068"
+         y="452.39163"
+         x="48.667706">očekáváš, že má </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1076"
+       y="467.16223"
+       x="131.92241"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1072"
+         y="467.16223"
+         x="31.210617">hodnotu, se rovná </tspan><tspan
+         id="tspan1074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.275795;text-anchor:start;text-align:start;"
+         y="467.16223"
+         x="131.92241">None</tspan></tspan></text>
+  <text
+     id="text1094"
+     y="488.2944"
+     x="37.266216"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;inline-size:168.498;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795"
+     xml:space="preserve"
+     transform="matrix(0.92318204,0,0,0.92318204,58.582699,35.754714)"><tspan
+       x="37.266216"
+       y="488.2944"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">Použil(a) jsi něco jiného </tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">než</tspan><tspan
+         y="488.2944"> </tspan></tspan><tspan
+       x="37.266216"
+       y="502.91104"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">celá čísla pro </tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">indexaci</tspan><tspan
+         y="502.91104">  </tspan></tspan><tspan
+       x="37.266216"
+       y="517.52768"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">řetězců/seznamů</tspan></tspan></text>
+  <text
+     id="text1104"
+     y="677.49158"
+     x="-28.533836"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1098"
+       y="677.49158"
+       x="34.431839"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1096"
+         y="677.49158"
+         x="34.431839">Použil(a) jsi kombinaci </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1102"
+       y="692.10815"
+       x="45.342907"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1100"
+         y="692.10815"
+         x="45.342907">tabulátorů a mezer</tspan></tspan></text>
+  <text
+     id="text1114"
+     y="710.86206"
+     x="-29.087389"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1108"
+       y="710.86206"
+       x="32.436611"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1106"
+         y="710.86206"
+         x="32.436611">Neodsadil(a) jsi stejně </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1112"
+       y="725.4787"
+       x="30.886452"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1110"
+         y="725.4787"
+         x="30.886452">všechny řádky v bloku</tspan></tspan></text>
+  <text
+     id="text936"
+     y="288.66516"
+     x="295.51257"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;inline-size:123.955;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795"
+     xml:space="preserve"
+     transform="translate(2.6534513)"><tspan
+       x="295.51257"
+       y="288.66516"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">Máš překlep v názvu</tspan><tspan
+         y="288.66516"> </tspan></tspan><tspan
+       x="295.51257"
+       y="303.2818"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.275795">proměnné/funkce</tspan></tspan></text>
+  <text
+     id="text886"
+     y="443.74536"
+     x="173.47765"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan880"
+       y="443.74536"
+       x="236.10359"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan878"
+         y="443.74536"
+         x="236.10359">Voláš funkci dříve, než </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan884"
+       y="458.36194"
+       x="247.65984"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan882"
+         y="458.36194"
+         x="247.65984">byla nadefinována</tspan></tspan></text>
+  <text
+     id="text900"
+     y="390.84094"
+     x="178.13206"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan890"
+       y="390.84094"
+       x="240.29266"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan888"
+         y="390.84094"
+         x="240.29266">Používáš proměnnou </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan894"
+       y="405.45755"
+       x="236.58998"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan892"
+         y="405.45755"
+         x="236.58998">mimo rozsah, kde byla </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan898"
+       y="420.07416"
+       x="267.84152"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan896"
+         y="420.07416"
+         x="267.84152">definována</tspan></tspan></text>
+  <text
+     id="text910"
+     y="322.24124"
+     x="206.97495"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan904"
+       y="322.24124"
+       x="255.96349"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan902"
+         y="322.24124"
+         x="255.96349">Zapomněl(a) jsi </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan908"
+       y="336.85785"
+       x="248.87215"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan906"
+         y="336.85785"
+         x="248.87215">importovat modul</tspan></tspan></text>
+  <text
+     id="text870"
+     y="356.08942"
+     x="195.12971"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan864"
+       y="356.08942"
+       x="260.91595"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan862"
+         y="356.08942"
+         x="260.91595">Zapomněl(a) jsi </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan868"
+       y="370.70602"
+       x="237.10402"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan866"
+         y="370.70602"
+         x="237.10402">nadefinovat proměnnou</tspan></tspan></text>
+  <text
+     id="text924"
+     y="479.1904"
+     x="179.75096"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan914"
+       y="479.1904"
+       x="246.49353"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan912"
+         y="479.1904"
+         x="246.49353">Snažíš se vytisknout </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan918"
+       y="493.80701"
+       x="236.99844"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan916"
+         y="493.80701"
+         x="236.99844">řetězec, ale zapomněl(a) </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan922"
+       y="508.42358"
+       x="260.69617"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan920"
+         y="508.42358"
+         x="260.69617">jsi na uvozovky</tspan></tspan></text>
+  <text
+     id="text1130"
+     y="82.394714"
+     x="-24.165693"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795"
+     xml:space="preserve"><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan1118"
+       y="82.394714"
+       x="34.420708"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan1116"
+         y="82.394714"
+         x="34.420708">Používáš neexistující </tspan></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan1124"
+       y="97.011307"
+       x="37.032856"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan1120"
+         y="97.011307"
+         x="37.032856">atribut nebo metodu</tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan1122"
+         y="97.011307"
+         x="148.41589"
+         dx="0" /></tspan><tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.275795"
+       id="tspan1128"
+       y="111.62791"
+       x="63.862297"
+       sodipodi:role="line"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.275795"
+         id="tspan1126"
+         y="111.62791"
+         x="63.862297">objektu</tspan></tspan></text>
+  <text
+     id="text1152"
+     y="593.5351"
+     x="199.79842"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1146"
+       y="593.5351"
+       x="251.6075"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1144"
+         y="593.5351"
+         x="251.6075">Snažíš se otevřít  </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1150"
+       y="608.15167"
+       x="246.18622"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1148"
+         y="608.15167"
+         x="246.18622">neexistující soubor</tspan></tspan></text>
+  <text
+     id="text1166"
+     y="680.71649"
+     x="181.38159"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.6933px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#81554f;fill-opacity:1;stroke:none;stroke-width:0.275795;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1156"
+       y="680.71649"
+       x="240.44188"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1154"
+         y="680.71649"
+         x="240.44188">Snažíš se přistoupit k </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1160"
+       y="695.33313"
+       x="244.64986"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1158"
+         y="695.33313"
+         x="244.64986">neexistujícímu klíči </tspan></tspan><tspan
+       style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+       id="tspan1164"
+       y="709.94971"
+       x="267.76523"
+       sodipodi:role="line"><tspan
+         style="stroke-width:0.275795;text-anchor:start;text-align:start;"
+         id="tspan1162"
+         y="709.94971"
+         x="267.76523">ve slovníku</tspan></tspan></text>
+  <flowRoot
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.3985px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#81554f;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="flowRoot3872-5-1-6-5-6-1-9"
+     transform="matrix(0.24967026,0,0,0.24967026,297.26989,643.60233)"><flowRegion
+       id="flowRegion3874-9-0-9-9-9-2-8"><rect
+         style="font-size:42.39848328px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#81554f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Light"
+         id="rect3876-7-1-9-1-0-7-5"
+         y="340.93362"
+         x="-420"
+         height="119.8345"
+         width="759.60822" /></flowRegion><flowPara
+       style="font-weight:bold;text-align:start;text-anchor:start"
+       id="flowPara3878-3-7-5-1-2-3-2">Zdroj: https://pythonforbiologists.com</flowPara><flowPara
+       style="font-weight:bold;text-align:start;text-anchor:start"
+       id="flowPara443">Překlad: https://pyladies.cz</flowPara></flowRoot>
+  <g
+     id="layer12" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="-93.662132"
+     y="168.59602"
+     id="text587"><tspan
+       sodipodi:role="line"
+       id="tspan585"
+       x="-93.662132"
+       y="168.59602" /></text>
+  <text
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect940);"
+     id="text938"
+     xml:space="preserve" />
+</svg>
